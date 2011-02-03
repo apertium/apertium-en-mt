@@ -80,6 +80,8 @@
 -->
   </pardefs>
   <section id="main" type="standard">
+    <e lm="l" r="RL"><p><l></a>l</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
+
     <e lm="illum"><i>illum</i><par n="illum__adv"/></e>
 
     <e lm="extrej"><i>extrej</i><par n="extrej__n"/></e>
