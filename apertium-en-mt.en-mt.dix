@@ -34,6 +34,10 @@
     <e srl="bubble D"><p><l>bubble<s n="n"/></l><r>bużżieqa<s n="n"/><s n="f"/></r></p></e>
     <e srl="balloon"><p><l>balloon<s n="n"/></l><r>bużżieqa<s n="n"/><s n="f"/></r></p></e>
     <e srl="bladder"><p><l>bladder<s n="n"/></l><r>bużżieqa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>action<s n="n"/></l><r>azzjoni<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>quotation<s n="n"/></l><r>kwotazzjoni<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pronunciation<s n="n"/></l><r>pronunzja<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>etymology<s n="n"/></l><r>etimoloġija<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>today<s n="adv"/></l><r>illum<s n="adv"/></r></p></e>
 
