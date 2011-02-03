@@ -2,6 +2,8 @@
   <alphabet>abcdefghijklmnopqrstuvwxyz</alphabet>
   <sdefs>
     <sdef n="n"/>
+    <sdef n="det"/>
+    <sdef n="def"/>
     <sdef n="m"/>
     <sdef n="f"/>
     <sdef n="mf"/>
@@ -20,6 +22,10 @@
     <sdef n="top"/>
   </sdefs>
   <pardefs>
+    <pardef n="illum__adv">
+      <e><p><l/><r><s n="adv"/></r></p></e>
+    </pardef>
+
     <pardef n="Ewropa__np">
       <e><p><l/><r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
@@ -74,6 +80,8 @@
 -->
   </pardefs>
   <section id="main" type="standard">
+    <e lm="illum"><i>illum</i><par n="illum__adv"/></e>
+
     <e lm="extrej"><i>extrej</i><par n="extrej__n"/></e>
     <e lm="buffu"><i>buff</i><par n="buff/u__n"/></e>
     <e lm="dada"><i>dad</i><par n="dad/a__n"/></e>
@@ -89,6 +97,18 @@
     <e lm="irreaġixxa"><par n="[ittraduċ]a__vblex" prm="irreaġixx"/></e>
     <e lm="ippromwova"><par n="[ittraduċ]a__vblex" prm="ippromwov"/></e>
 -->
+  </section>
+  <section id="blah" type="postblank">
+    <e lm="l" r="LR"><p><l>l-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="l" r="LR"><p><l>il-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="l" r="LR"><p><l>ic-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="l" r="LR"><p><l>id-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="l" r="LR"><p><l>in-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="l" r="LR"><p><l>ir-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="l" r="LR"><p><l>is-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="l" r="LR"><p><l>it-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="l" r="LR"><p><l>ix-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="l" r="LR"><p><l>iz-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
   </section>
 </dictionary>
 
