@@ -18,7 +18,7 @@
     <sdef n="imperf"/>
     <sdef n="np"/>
     <sdef n="top"/>
-    <sdef n="GP"/>
+    <sdef n="GD"/>
   </sdefs>
   <section id="main" type="standard">
     <e r="RL"><p><l>clown<s n="n"/></l><r>buffu<s n="n"/></r></p></e>
