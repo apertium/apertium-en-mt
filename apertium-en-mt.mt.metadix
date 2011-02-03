@@ -107,6 +107,9 @@
     <e lm="l" r="RL"><p><l><a/>l</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
 
     <e lm="illum"><i>illum</i><par n="illum__adv"/></e>
+    <e lm="per eżempju"><i>per<b/>eżempju</i><par n="illum__adv"/></e>
+    <e lm="internazzjonalment"><i>internazzjonalment</i><par n="illum__adv"/></e>
+    <e lm="nazzjonalment"><i>nazzjonalment</i><par n="illum__adv"/></e>
 
     <e lm="u"><i>u</i><par n="u__cnjcoo"/></e>
 
@@ -115,9 +118,13 @@
     <e lm="dada"><i>dad</i><par n="dad/a__n"/></e>
     <e lm="etimoloġija"><i>etimoloġij</i><par n="dad/a__n"/></e>
     <e lm="pronunzja"><i>pronunzj</i><par n="dad/a__n"/></e>
+    <e lm="lingwa"><i>lingw</i><par n="dad/a__n"/></e>
+    <e lm="enċiklopedija"><i>enċiklopedij</i><par n="dad/a__n"/></e>
+    <e lm="Wikipedija"><i>Wikipedij</i><par n="dad/a__n"/></e>
     <e lm="kwotazzjoni"><i>kwotazzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="azzjoni"><i>azzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="traduzzjoni"><i>traduzzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="eċċitazzjoni"><i>eċċitazzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="bużżieqa"><i>b</i><par n="b/użżieqa__n"/></e>
     <e lm="eżempju"><i>eżempj</i><par n="eżempj/u__n"/></e>
     <e lm="eżerċizzju"><i>eżerċizzj</i><par n="eżempj/u__n"/></e>
