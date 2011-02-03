@@ -1,1 +1,4 @@
 * text=auto !eol
+/buscaPar.xsl -text
+/principal.xsl -text
+/translate-to-default-equivalent.xsl -text
