@@ -1,0 +1,43 @@
+<dictionary>
+  <alphabet>abcdefghijklmnopqrstuvwxyz</alphabet>
+  <sdefs>
+    <sdef n="n"/>
+    <sdef n="m"/>
+    <sdef n="f"/>
+    <sdef n="mf"/>
+    <sdef n="sg"/>
+    <sdef n="pl"/>
+    <sdef n="sp"/>
+    <sdef n="vblex"/>
+    <sdef n="p1"/>
+    <sdef n="p2"/>
+    <sdef n="p3"/>
+    <sdef n="adj"/>
+    <sdef n="adv"/>
+    <sdef n="perf"/>
+    <sdef n="imperf"/>
+    <sdef n="np"/>
+    <sdef n="top"/>
+    <sdef n="GP"/>
+  </sdefs>
+  <section id="main" type="standard">
+    <e r="RL"><p><l>clown<s n="n"/></l><r>buffu<s n="n"/></r></p></e>
+    <e r="LR"><p><l>clown<s n="n"/></l><r>buffu<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>excitation<s n="n"/></l><r>eċċitazzjoni<s n="n"/><s n="f"/></r></p></e>
+    <e srl="chest D" slr="dada D"><p><l>chest<s n="n"/></l><r>dada<s n="n"/><s n="f"/></r></p></e>
+    <e srl="breast"><p><l>breast<s n="n"/></l><r>dada<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>need<s n="n"/></l><r>bżonn<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ashtray<s n="n"/></l><r>extrej<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>example<s n="n"/></l><r>eżempju<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>exercise<s n="n"/></l><r>eżerċizzju<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bag<s n="n"/></l><r>borża<s n="n"/><s n="f"/></r></p></e>
+    <e srl="bubble D"><p><l>bubble<s n="n"/></l><r>bużżieqa<s n="n"/><s n="f"/></r></p></e>
+    <e srl="balloon"><p><l>balloon<s n="n"/></l><r>bużżieqa<s n="n"/><s n="f"/></r></p></e>
+    <e srl="bladder"><p><l>bladder<s n="n"/></l><r>bużżieqa<s n="n"/><s n="f"/></r></p></e>
+
+    <e><p><l>translate<s n="vblex"/></l><r>ittraduċa<s n="vblex"/></r></p></e>
+    <e><p><l>react<s n="vblex"/></l><r>irreaġixxa<s n="vblex"/></r></p></e>
+    <e><p><l>promote<s n="vblex"/></l><r>ippromwova<s n="vblex"/></r></p></e>
+  </section>
+</dictionary>
+

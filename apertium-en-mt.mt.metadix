@@ -1,0 +1,88 @@
+<dictionary>
+  <alphabet>abcdefghijklmnopqrstuvwxyz</alphabet>
+  <sdefs>
+    <sdef n="n"/>
+    <sdef n="m"/>
+    <sdef n="f"/>
+    <sdef n="mf"/>
+    <sdef n="sg"/>
+    <sdef n="pl"/>
+    <sdef n="sp"/>
+    <sdef n="vblex"/>
+    <sdef n="p1"/>
+    <sdef n="p2"/>
+    <sdef n="p3"/>
+    <sdef n="adj"/>
+    <sdef n="adv"/>
+    <sdef n="perf"/>
+    <sdef n="imperf"/>
+    <sdef n="np"/>
+    <sdef n="top"/>
+  </sdefs>
+  <pardefs>
+    <pardef n="Ewropa__np">
+      <e><p><l/><r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="extrej__n">
+      <e><p><l/><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>s</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="dad/a__n">
+      <e><p><l>a</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r>a<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="kwotazzjoni__n">
+      <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>jiet</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="b/użżieqa__n">
+      <e><p><l>użżieqa</l><r>użżieqa<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>żieżaq</l><r>użżieqa<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="buff/u__n">
+      <e><p><l>u</l><r>u<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r>u<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>a</l><r>u<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r>u<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+<!--
+    <pardef n="[ittraduċ]a__vblex">
+      <e><p><l><prm/>ejt</l><r><prm/>a<s n="vblex"/><s n="perf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l><prm/>ejt</l><r><prm/>a<s n="vblex"/><s n="perf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l><prm/>a</l><r><prm/>a<s n="vblex"/><s n="perf"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l><prm/>iet</l><r><prm/>a<s n="vblex"/><s n="perf"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l><prm/>ejna</l><r><prm/>a<s n="vblex"/><s n="perf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l><prm/>ejtu</l><r><prm/>a<s n="vblex"/><s n="perf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l><prm/>ew</l><r><prm/>a<s n="vblex"/><s n="perf"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p><l>n<prm/>i</l><r><prm/>a<s n="vblex"/><s n="imperf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>t<prm/>i</l><r><prm/>a<s n="vblex"/><s n="imperf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>j<prm/>i</l><r><prm/>a<s n="vblex"/><s n="imperf"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>t<prm/>i</l><r><prm/>a<s n="vblex"/><s n="imperf"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>n<prm/>u</l><r><prm/>a<s n="vblex"/><s n="imperf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>t<prm/>u</l><r><prm/>a<s n="vblex"/><s n="imperf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>j<prm/>u</l><r><prm/>a<s n="vblex"/><s n="imperf"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p><l><prm/>i</l><r><prm/>a<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l><prm/>u</l><r><prm/>a<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+    </pardef>
+-->
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="extrej"><i>extrej</i><par n="extrej__n"/></e>
+    <e lm="buffu"><i>buff</i><par n="buff/u__n"/></e>
+    <e lm="dada"><i>dad</i><par n="dad/a__n"/></e>
+    <e lm="etimoloġija"><i>etimoloġij</i><par n="dad/a__n"/></e>
+    <e lm="pronunzja"><i>pronunzj</i><par n="dad/a__n"/></e>
+    <e lm="kwotazzjoni"><i>kwotazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="bużżieqa"><i>b</i><par n="b/użżieqa__n"/></e>
+
+<!--
+    <e lm="ittraduċa"><par n="[ittraduċ]a__vblex" prm="ittraduċ"/></e>
+    <e lm="irreaġixxa"><par n="[ittraduċ]a__vblex" prm="irreaġixx"/></e>
+    <e lm="ippromwova"><par n="[ittraduċ]a__vblex" prm="ippromwov"/></e>
+-->
+  </section>
+</dictionary>
+

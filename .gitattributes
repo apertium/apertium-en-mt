@@ -1,4 +1,6 @@
 * text=auto !eol
+/apertium-en-mt.en-mt.dix -text
+/apertium-en-mt.mt.metadix -text
 /buscaPar.xsl -text
 /principal.xsl -text
 /translate-to-default-equivalent.xsl -text
