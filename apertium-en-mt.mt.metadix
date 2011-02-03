@@ -77,6 +77,26 @@
       <e><p><l><prm/>i</l><r><prm/>a<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
       <e><p><l><prm/>u</l><r><prm/>a<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="[aġġastja]__vblex">
+      <e><p><l><prm/>jt</l><r><prm/><s n="vblex"/><s n="perf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l><prm/>jt</l><r><prm/><s n="vblex"/><s n="perf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l><prm/></l><r><prm/><s n="vblex"/><s n="perf"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l><prm/>t</l><r><prm/><s n="vblex"/><s n="perf"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l><prm/>jna</l><r><prm/><s n="vblex"/><s n="perf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l><prm/>jtu</l><r><prm/><s n="vblex"/><s n="perf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l><prm/>w</l><r><prm/><s n="vblex"/><s n="perf"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p><l>n<prm/></l><r><prm/><s n="vblex"/><s n="imperf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>t<prm/></l><r><prm/><s n="vblex"/><s n="imperf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>j<prm/></l><r><prm/><s n="vblex"/><s n="imperf"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>t<prm/></l><r><prm/><s n="vblex"/><s n="imperf"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>n<prm/>w</l><r><prm/><s n="vblex"/><s n="imperf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>t<prm/>w</l><r><prm/><s n="vblex"/><s n="imperf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>j<prm/>w</l><r><prm/><s n="vblex"/><s n="imperf"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p><l><prm/></l><r><prm/><s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l><prm/>w</l><r><prm/><s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+    </pardef>
 -->
   </pardefs>
   <section id="main" type="standard">
@@ -98,6 +118,7 @@
     <e lm="ittraduċa"><par n="[ittraduċ]a__vblex" prm="ittraduċ"/></e>
     <e lm="irreaġixxa"><par n="[ittraduċ]a__vblex" prm="irreaġixx"/></e>
     <e lm="ippromwova"><par n="[ittraduċ]a__vblex" prm="ippromwov"/></e>
+    <e lm="aġġastja"><par n="[aġġastja]__vblex" prm="aġġastja"/></e>
 -->
   </section>
   <section id="blah" type="postblank">
