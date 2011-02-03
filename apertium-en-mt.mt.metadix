@@ -35,6 +35,10 @@
       <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>jiet</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="eżempj/u__n">
+      <e><p><l>u</l><r>u<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r>u<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    </pardef>
     <pardef n="b/użżieqa__n">
       <e><p><l>użżieqa</l><r>użżieqa<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>żieżaq</l><r>użżieqa<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -77,6 +81,8 @@
     <e lm="pronunzja"><i>pronunzj</i><par n="dad/a__n"/></e>
     <e lm="kwotazzjoni"><i>kwotazzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="bużżieqa"><i>b</i><par n="b/użżieqa__n"/></e>
+    <e lm="eżempju"><i>eżempj</i><par n="eżempj/u__n"/></e>
+    <e lm="eżerċizzju"><i>eżerċizzj</i><par n="eżempj/u__n"/></e>
 
 <!--
     <e lm="ittraduċa"><par n="[ittraduċ]a__vblex" prm="ittraduċ"/></e>
