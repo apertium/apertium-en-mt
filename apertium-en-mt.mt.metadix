@@ -20,10 +20,14 @@
     <sdef n="imperf"/>
     <sdef n="np"/>
     <sdef n="top"/>
+    <sdef n="cnjcoo"/>
   </sdefs>
   <pardefs>
     <pardef n="illum__adv">
       <e><p><l/><r><s n="adv"/></r></p></e>
+    </pardef>
+    <pardef n="u__cnjcoo">
+      <e><p><l/><r><s n="cnjcoo"/></r></p></e>
     </pardef>
 
     <pardef n="Ewropa__np">
@@ -100,9 +104,11 @@
 -->
   </pardefs>
   <section id="main" type="standard">
-    <e lm="l" r="RL"><p><l></a>l</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="l" r="RL"><p><l><a/>l</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
 
     <e lm="illum"><i>illum</i><par n="illum__adv"/></e>
+
+    <e lm="u"><i>u</i><par n="u__cnjcoo"/></e>
 
     <e lm="extrej"><i>extrej</i><par n="extrej__n"/></e>
     <e lm="buffu"><i>buff</i><par n="buff/u__n"/></e>
