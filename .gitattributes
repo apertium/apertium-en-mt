@@ -1,5 +1,7 @@
 * text=auto !eol
+/Makefile -text
 /apertium-en-mt.en-mt.dix -text
+/apertium-en-mt.mt.acx -text
 /apertium-en-mt.mt.metadix -text
 /apertium-en-mt.post-mt.dix -text
 /buscaPar.xsl -text

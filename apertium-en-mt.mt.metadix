@@ -4,6 +4,7 @@
     <sdef n="n"/>
     <sdef n="det"/>
     <sdef n="def"/>
+    <sdef n="itg"/>
     <sdef n="pp"/>
     <sdef n="imp"/>
     <sdef n="m"/>
@@ -26,8 +27,6 @@
     <sdef n="pr"/>
     <sdef n="rel"/>
     <sdef n="an"/>
-    <sdef n="det"/>
-    <sdef n="itg"/>
   </sdefs>
   <pardefs>
     <pardef n="illum__adv">
@@ -79,20 +78,18 @@
       <e><p><l>suwed</l><r>iswed<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p><l>suwed</l><r>iswed<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
-
-<!--
-    <pardef n="kb/i[r]__adj">
-      <e><p><l>i<prm/></l><r>i<prm/><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l>i<prm/>a</l><r>i<prm/><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l>a<prm/></l><r>i<prm/><s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
-      <e><p><l>a<prm/></l><r>i<prm/><s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
-    </pardef>
--->
     <pardef n="griż__adj">
       <e><p><l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>a</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>i</l><r><s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p><l>i</l><r><s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="kb/i[r]__adj">
+      <e><p><l>i<prm/></l><r>i<prm/><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>i<prm/>a</l><r>i<prm/><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>a<prm/></l><r>i<prm/><s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>a<prm/></l><r>i<prm/><s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="Ewropa__np">
@@ -161,7 +158,6 @@
       <e><p><l>i</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
 
-<!--
     <pardef n="[ittraduċ]a__vblex">
       <e><p><l><prm/>ejt</l><r><prm/>a<s n="vblex"/><s n="perf"/><s n="p1"/><s n="sg"/></r></p></e>
       <e><p><l><prm/>ejt</l><r><prm/>a<s n="vblex"/><s n="perf"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -202,7 +198,7 @@
       <e><p><l><prm/></l><r><prm/><s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
       <e><p><l><prm/>w</l><r><prm/><s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
--->
+
     <pardef n="/ta__vblex">
       <e><p><l>tajt</l><r>ta<s n="vblex"/><s n="perf"/><s n="p1"/><s n="sg"/></r></p></e>
       <e><p><l>tajt</l><r>ta<s n="vblex"/><s n="perf"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -250,14 +246,13 @@
     <e lm="xi" r="LR"><i>xi</i><par n="xi__det"/></e>
     <e lm="xi" r="RL"><p><l><a/>xi</l><r>xi</r></p><par n="xi__det"/></e>
 
-<!--
     <e lm="kbir"><i>kb</i><par n="kb/i[r]__adj" prm="r"/></e>
     <e lm="twil"><i>tw</i><par n="kb/i[r]__adj" prm="l"/></e>
     <e lm="żgħir"><i>żgħ</i><par n="kb/i[r]__adj" prm="r"/></e>
     <e lm="rqiq"><i>rq</i><par n="kb/i[r]__adj" prm="q"/></e>
     <e lm="sħiħ"><i>sħ</i><par n="kb/i[r]__adj" prm="ħ"/></e>
     <e lm="tqil"><i>tq</i><par n="kb/i[r]__adj" prm="l"/></e>
--->
+
     <e lm="pikkanti"><i>pikkanti</i><par n="pikkanti__adj"/></e>
     <e lm="pikkanti"><i>pikkanti</i><par n="pikkanti__adj"/></e>
     <e lm="ġdid"><i>ġ</i><par n="ġ/did__adj"/></e>
@@ -319,13 +314,12 @@
     <e lm="deżert"><i>deżert</i><par n="deżert__n"/></e>
     <e lm="Ċek"><i>Ċek</i><par n="Ċek__n"/></e>
 
-<!--
     <e lm="ittraduċa"><par n="[ittraduċ]a__vblex" prm="ittraduċ"/></e>
     <e lm="irreaġixxa"><par n="[ittraduċ]a__vblex" prm="irreaġixx"/></e>
     <e lm="ippromwova"><par n="[ittraduċ]a__vblex" prm="ippromwov"/></e>
     <e lm="aġġastja"><par n="[aġġastja]__vblex" prm="aġġastja"/></e>
     <e lm="eżerċita"><par n="[aġġastja]__vblex" prm="eżerċita"/></e>
--->
+
     <e lm="ta"><par n="/ta__vblex"/></e>
   </section>
   <section id="blah" type="postblank">
