@@ -38,6 +38,45 @@
     <pardef n="kontra__pr">
       <e><p><l/><r><s n="pr"/></r></p></e>
     </pardef>
+    <pardef n="l-__det">
+      <e><p><l>l-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>il-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>iċ-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>id-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>in-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>ir-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>is-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>it-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>ix-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>iz-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>iż-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="tal-__pr+det">
+      <e><p><l>l-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>ċ-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>d-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>n-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>r-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>s-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>t-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>x-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>z-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>ż-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="għall-__pr+det">
+      <e><p><l>ll-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>ċ-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>d-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>n-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>r-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>s-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>t-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>x-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>z-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>ż-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
+
     <pardef n="li__rel">
       <e><p><l/><r><s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
@@ -245,11 +284,15 @@
     <e lm="ta'" r="RL"><p><l><a/>ta'</l><r>ta'</r></p><par n="kontra__pr"/></e>
     <e lm="fi" r="LR"><i>fi</i><par n="kontra__pr"/></e>
     <e lm="fi" r="RL"><p><l><a/>fi</l><r>fi</r></p><par n="kontra__pr"/></e>
+    <e lm="bi" r="LR"><i>bi</i><par n="kontra__pr"/></e>
+    <e lm="bi" r="RL"><p><l><a/>bi</l><r>bi</r></p><par n="kontra__pr"/></e>
     <e lm="ma'" r="LR"><i>ma'</i><par n="kontra__pr"/></e>
     <e lm="ma'" r="RL"><p><l><a/>ma'</l><r>ma'</r></p><par n="kontra__pr"/></e>
-    <e lm="ma'" r="RL"><p><l><a/>ma</l><r>ma'</r></p><par n="kontra__pr"/></e>
+    <e lm="ma'" r="LR"><p><l>ma</l><r>ma'</r></p><par n="kontra__pr"/></e>
     <e lm="għal" r="LR"><i>għal</i><par n="kontra__pr"/></e>
     <e lm="għal" r="RL"><p><l><a/>għal</l><r>għal</r></p><par n="kontra__pr"/></e>
+    <e lm="sa" r="LR"><i>sa</i><par n="kontra__pr"/></e>
+    <e lm="sa" r="RL"><p><l><a/>sa</l><r>sa</r></p><par n="kontra__pr"/></e>
 
     <e lm="li"><i>li</i><par n="li__rel"/></e>
     <e lm="xi" r="LR"><i>xi</i><par n="xi__det"/></e>
@@ -355,62 +398,16 @@
     <e lm="xi" r="LR"><p><l>x'</l><r>xi</r></p><par n="xi__det"/></e>
     <e lm="fi" r="LR"><p><l>f'</l><r>fi</r></p><par n="kontra__pr"/></e>
     <e lm="ta'" r="LR"><p><l>t'</l><r>ta'</r></p><par n="kontra__pr"/></e>
+    <e lm="sa" r="LR"><p><l>s'</l><r>sa</r></p><par n="kontra__pr"/></e>
+    <e lm="bi" r="LR"><p><l>b'</l><r>bi</r></p><par n="kontra__pr"/></e>
 
-    <e lm="l" r="LR"><p><l>l-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="l" r="LR"><p><l>il-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="l" r="LR"><p><l>iċ-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="l" r="LR"><p><l>id-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="l" r="LR"><p><l>in-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="l" r="LR"><p><l>ir-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="l" r="LR"><p><l>is-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="l" r="LR"><p><l>it-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="l" r="LR"><p><l>ix-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="l" r="LR"><p><l>iz-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="l" r="LR"><p><l>iż-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-
-    <e lm="tal" r="LR"><p><l>tal-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="tal" r="LR"><p><l>taċ-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="tal" r="LR"><p><l>tad-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="tal" r="LR"><p><l>tan-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="tal" r="LR"><p><l>tar-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="tal" r="LR"><p><l>tas-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="tal" r="LR"><p><l>tat-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="tal" r="LR"><p><l>tax-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="tal" r="LR"><p><l>taz-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="tal" r="LR"><p><l>taż-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-
-    <e lm="fil" r="LR"><p><l>fil-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="fil" r="LR"><p><l>fl-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="fil" r="LR"><p><l>fiċ-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="fil" r="LR"><p><l>fid-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="fil" r="LR"><p><l>fin-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="fil" r="LR"><p><l>fir-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="fil" r="LR"><p><l>fis-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="fil" r="LR"><p><l>fit-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="fil" r="LR"><p><l>fix-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="fil" r="LR"><p><l>fiz-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="fil" r="LR"><p><l>fiż-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="għal" r="LR"><p><l>għall-</l><r>għal<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="għal" r="LR"><p><l>għaċ-</l><r>għal<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="għal" r="LR"><p><l>għad-</l><r>għal<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="għal" r="LR"><p><l>għan-</l><r>għal<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="għal" r="LR"><p><l>għar-</l><r>għal<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="għal" r="LR"><p><l>għas-</l><r>għal<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="għal" r="LR"><p><l>għat-</l><r>għal<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="għal" r="LR"><p><l>għax-</l><r>għal<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="għal" r="LR"><p><l>għaz-</l><r>għal<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="għal" r="LR"><p><l>għaż-</l><r>għal<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-
-    <e lm="mal" r="LR"><p><l>mal-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="mal" r="LR"><p><l>maċ-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="mal" r="LR"><p><l>mad-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="mal" r="LR"><p><l>man-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="mal" r="LR"><p><l>mar-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="mal" r="LR"><p><l>mas-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="mal" r="LR"><p><l>mat-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="mal" r="LR"><p><l>max-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="mal" r="LR"><p><l>maz-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e lm="mal" r="LR"><p><l>maż-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="l" r="LR"><p><l></l><r></r></p><par n="l-__det"/></e>
+    <e lm="fil" r="LR"><p><l>f</l><r>fi<s n="pr"/><j/></r></p><par n="l-__det"/></e>
+    <e lm="bil" r="LR"><p><l>b</l><r>bi<s n="pr"/><j/></r></p><par n="l-__det"/></e>
+    <e lm="tal" r="LR"><p><l>ta</l><r>ta'<s n="pr"/><j/></r></p><par n="tal-__pr+det"/></e>
+    <e lm="mal" r="LR"><p><l>ma</l><r>ma'<s n="pr"/><j/></r></p><par n="tal-__pr+det"/></e>
+    <e lm="sal" r="LR"><p><l>sa</l><r>sa<s n="pr"/><j/></r></p><par n="tal-__pr+det"/></e>
+    <e lm="għall" r="LR"><p><l>għa</l><r>għal<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
   </section>
 </dictionary>
 
