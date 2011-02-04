@@ -293,6 +293,8 @@
     <e lm="għal" r="RL"><p><l><a/>għal</l><r>għal</r></p><par n="kontra__pr"/></e>
     <e lm="sa" r="LR"><i>sa</i><par n="kontra__pr"/></e>
     <e lm="sa" r="RL"><p><l><a/>sa</l><r>sa</r></p><par n="kontra__pr"/></e>
+    <e lm="ħlief għal" r="LR"><i>ħlief<b/>għal</i><par n="kontra__pr"/></e>
+    <e lm="ħlief għal" r="RL"><p><l>ħlief<b/><a/>għal</l><r>ħlief<b/>għal</r></p><par n="kontra__pr"/></e>
 
     <e lm="li"><i>li</i><par n="li__rel"/></e>
     <e lm="xi" r="LR"><i>xi</i><par n="xi__det"/></e>
@@ -408,6 +410,7 @@
     <e lm="mal" r="LR"><p><l>ma</l><r>ma'<s n="pr"/><j/></r></p><par n="tal-__pr+det"/></e>
     <e lm="sal" r="LR"><p><l>sa</l><r>sa<s n="pr"/><j/></r></p><par n="tal-__pr+det"/></e>
     <e lm="għall" r="LR"><p><l>għa</l><r>għal<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
+    <e lm="ħlief għall" r="LR"><p><l>ħlief<b/>għa</l><r>ħlief<b/>għal<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
   </section>
 </dictionary>
 
