@@ -30,6 +30,7 @@
     <sdef n="neg"/>
     <sdef n="prn"/>
     <sdef n="subj"/>
+    <sdef n="pos"/>
   </sdefs>
   <pardefs>
     <pardef n="illum__adv">
@@ -79,6 +80,9 @@
       <e><p><l>ż-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
+    <pardef n="tagħha__prn">
+      <e><p><l/><r><s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
     <pardef n="prnsubj__prn">
       <e><p><l>jien</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>jiena</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -377,6 +381,13 @@
     <e lm="ma"><i>ma</i><par n="illum__adv"/></e>
 
     <e lm="prnsubj"><i></i><par n="prnsubj__prn"/></e>
+    <e lm="tagħha"><i>tagħha</i><par n="tagħha__prn"/></e>
+    <e lm="tiegħek"><i>tiegħek</i><par n="tagħha__prn"/></e>
+    <e lm="tagħhom"><i>tagħhom</i><par n="tagħha__prn"/></e>
+    <e lm="tagħkom"><i>tagħkom</i><par n="tagħha__prn"/></e>
+    <e lm="tagħna"><i>tagħna</i><par n="tagħha__prn"/></e>
+    <e lm="tiegħi"><i>tiegħi</i><par n="tagħha__prn"/></e>
+    <e lm="tiegħu"><i>tiegħu</i><par n="tagħha__prn"/></e>
 
     <e lm="u"><i>u</i><par n="u__cnjcoo"/></e>
 

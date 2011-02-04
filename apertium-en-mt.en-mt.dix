@@ -24,6 +24,7 @@
     <sdef n="pr"/>
     <sdef n="det"/>
     <sdef n="itg"/>
+    <sdef n="pos"/>
   </sdefs>
   <pardefs>
     <pardef n="SP">
@@ -122,6 +123,18 @@
     <e><p><l>lemon<s n="n"/></l><r>lumija<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>what<s n="det"/><s n="itg"/></l><r>xi<s n="det"/><s n="itg"/><s n="mf"/></r></p></e>
+    <e><p><l>his<s n="prn"/><s n="pos"/></l><r>tiegħu<s n="prn"/><s n="pos"/></r></p></e>
+    <e><p><l>her<s n="prn"/><s n="pos"/></l><r>tagħha<s n="prn"/><s n="pos"/></r></p></e>
+    <e r="LR"><p><l>hers<s n="prn"/><s n="pos"/></l><r>tagħha<s n="prn"/><s n="pos"/></r></p></e>
+    <e><p><l>your<s n="prn"/><s n="pos"/></l><r>tiegħek<s n="prn"/><s n="pos"/></r></p></e>
+    <e r="LR"><p><l>yours<s n="prn"/><s n="pos"/></l><r>tiegħek<s n="prn"/><s n="pos"/></r></p></e>
+    <e><p><l>their<s n="prn"/><s n="pos"/></l><r>tagħhom<s n="prn"/><s n="pos"/></r></p></e>
+    <e r="LR"><p><l>theirs<s n="prn"/><s n="pos"/></l><r>tagħhom<s n="prn"/><s n="pos"/></r></p></e>
+    <e r="RL"><p><l>your<s n="prn"/><s n="pos"/></l><r>tagħkom<s n="prn"/><s n="pos"/></r></p></e>
+    <e><p><l>our<s n="prn"/><s n="pos"/></l><r>tagħna<s n="prn"/><s n="pos"/></r></p></e>
+    <e r="LR"><p><l>ours<s n="prn"/><s n="pos"/></l><r>tagħna<s n="prn"/><s n="pos"/></r></p></e>
+    <e><p><l>my<s n="prn"/><s n="pos"/></l><r>tiegħi<s n="prn"/><s n="pos"/></r></p></e>
+    <e r="LR"><p><l>mine<s n="prn"/><s n="pos"/></l><r>tiegħi<s n="prn"/><s n="pos"/></r></p></e>
 
     <e><p><l>spicy<s n="adj"/><s n="sint"/></l><r>pikkanti<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>picant<s n="adj"/></l><r>pikkanti<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
