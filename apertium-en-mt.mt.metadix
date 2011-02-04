@@ -45,15 +45,15 @@
       <e><p><l>is</l><r>ġ<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>ġijiet</l><r>ġ<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
+    <!-- /check -->
     <pardef n="k/tieb__n">
-      <e><p><l>tieb</l><r>tieb<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l>otba</l><r>tieb<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p><l>tieb</l><r>tieb<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>otba</l><r>tieb<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="/raġel__n">
       <e><p><l>raġel</l><r>raġel<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>irġiel</l><r>raġel<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
-    <!-- /check -->
     <pardef n="dad/a__n">
       <e><p><l>a</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>i</l><r>a<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
