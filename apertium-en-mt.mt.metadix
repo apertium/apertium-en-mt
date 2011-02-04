@@ -65,6 +65,15 @@
       <e><p><l>suwed</l><r>iswed<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p><l>suwed</l><r>iswed<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
+
+<!--
+    <pardef n="kb/i[r]__adj">
+      <e><p><l>i<prm/></l><r>i<prm/><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>i<prm/>a</l><r>i<prm/><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>a<prm/></l><r>i<prm/><s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>a<prm/></l><r>i<prm/><s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+-->
     <pardef n="griż__adj">
       <e><p><l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>a</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
@@ -210,6 +219,25 @@
     <e lm="nazzjonalment"><i>nazzjonalment</i><par n="illum__adv"/></e>
 
     <e lm="u"><i>u</i><par n="u__cnjcoo"/></e>
+
+<!--
+    <e lm="kbir"><i>kb</i><par n="kb/i[r]__adj" prm="r"/></e>
+    <e lm="twil"><i>tw</i><par n="kb/i[r]__adj" prm="l"/></e>
+    <e lm="żgħir"><i>żgħ</i><par n="kb/i[r]__adj" prm="r"/></e>
+    <e lm="rqiq"><i>rq</i><par n="kb/i[r]__adj" prm="q"/></e>
+    <e lm="sħiħ"><i>sħ</i><par n="kb/i[r]__adj" prm="ħ"/></e>
+-->
+    <e lm="pikkanti"><i>pikkanti</i><par n="pikkanti__adj"/></e>
+    <e lm="pikkanti"><i>pikkanti</i><par n="pikkanti__adj"/></e>
+    <e lm="ġdid"><i>ġ</i><par n="ġ/did__adj"/></e>
+    <e lm="aħmar"><i></i><par n="/aħmar__adj"/></e>
+    <e lm="aħdar"><i></i><par n="/aħdar__adj"/></e>
+    <e lm="abjad"><i></i><par n="/abjad__adj"/></e>
+    <e lm="iswed"><i></i><par n="/iswed__adj"/></e>
+
+    <e lm="griż"><i>griż</i><par n="griż__adj"/></e>
+    <e lm="fond"><i>fond</i><par n="griż__adj"/></e>
+    <e lm="frisk"><i>frisk</i><par n="griż__adj"/></e>
 
     <e lm="extrej"><i>extrej</i><par n="extrej__n"/></e>
     <e lm="buffu"><i>buff</i><par n="buff/u__n"/></e>
