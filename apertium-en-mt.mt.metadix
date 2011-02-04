@@ -337,6 +337,18 @@
     <e lm="l" r="LR"><p><l>ix-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
     <e lm="l" r="LR"><p><l>iz-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
     <e lm="l" r="LR"><p><l>iż-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+
+    <!-- not sure about these -->
+    <e lm="tal" r="LR"><p><l>tal-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="tal" r="LR"><p><l>taċ-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="tal" r="LR"><p><l>tad-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="tal" r="LR"><p><l>tan-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="tal" r="LR"><p><l>tar-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="tal" r="LR"><p><l>tas-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="tal" r="LR"><p><l>tat-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="tal" r="LR"><p><l>tax-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="tal" r="LR"><p><l>taz-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="tal" r="LR"><p><l>taż-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
   </section>
 </dictionary>
 
