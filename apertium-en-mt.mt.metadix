@@ -28,6 +28,8 @@
     <sdef n="rel"/>
     <sdef n="an"/>
     <sdef n="neg"/>
+    <sdef n="prn"/>
+    <sdef n="subj"/>
   </sdefs>
   <pardefs>
     <pardef n="illum__adv">
@@ -77,6 +79,19 @@
       <e><p><l>ż-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
+    <pardef n="prnsubj__prn">
+      <e><p><l>jien</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>jiena</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>int</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>inti</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>hu</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>huwa</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>hi</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>hija</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>aħna</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>intom</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>huma</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
 
     <pardef n="li__rel">
       <e><p><l/><r><s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -315,6 +330,42 @@
       <e><p><l>mogħtija</l><r>ta<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>mogħtijin</l><r>ta<s n="vblex"/><s n="pp"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="/gie__vblex">
+      <e><p><l>gejt</l><r>gie<s n="vblex"/><s n="perf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>gejt</l><r>gie<s n="vblex"/><s n="perf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>gie</l><r>gie<s n="vblex"/><s n="perf"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>giet</l><r>gie<s n="vblex"/><s n="perf"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>gejna</l><r>gie<s n="vblex"/><s n="perf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>gejtu</l><r>gie<s n="vblex"/><s n="perf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>gew</l><r>gie<s n="vblex"/><s n="perf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>gejtx</l><r>gie<s n="vblex"/><s n="perf"/><s n="neg"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>gejtx</l><r>gie<s n="vblex"/><s n="perf"/><s n="neg"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>giex</l><r>gie<s n="vblex"/><s n="perf"/><s n="neg"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>gietx</l><r>gie<s n="vblex"/><s n="perf"/><s n="neg"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>gejnax</l><r>gie<s n="vblex"/><s n="perf"/><s n="neg"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>gejtux</l><r>gie<s n="vblex"/><s n="perf"/><s n="neg"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>gewx</l><r>gie<s n="vblex"/><s n="perf"/><s n="neg"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p><l>nigi</l><r>gie<s n="vblex"/><s n="imperf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>tigi</l><r>gie<s n="vblex"/><s n="imperf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>jigi</l><r>gie<s n="vblex"/><s n="imperf"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>tigi</l><r>gie<s n="vblex"/><s n="imperf"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>nigu</l><r>gie<s n="vblex"/><s n="imperf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>tigu</l><r>gie<s n="vblex"/><s n="imperf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>jigu</l><r>gie<s n="vblex"/><s n="imperf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>nigix</l><r>gie<s n="vblex"/><s n="imperf"/><s n="neg"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>tigix</l><r>gie<s n="vblex"/><s n="imperf"/><s n="neg"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>jigix</l><r>gie<s n="vblex"/><s n="imperf"/><s n="neg"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>tigix</l><r>gie<s n="vblex"/><s n="imperf"/><s n="neg"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>nigux</l><r>gie<s n="vblex"/><s n="imperf"/><s n="neg"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>tigux</l><r>gie<s n="vblex"/><s n="imperf"/><s n="neg"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>jigux</l><r>gie<s n="vblex"/><s n="imperf"/><s n="neg"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p><l>ejja</l><r>gie<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>ejjew</l><r>gie<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>ejjax</l><r>gie<s n="vblex"/><s n="imp"/><s n="neg"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>ejjewx</l><r>gie<s n="vblex"/><s n="imp"/><s n="neg"/><s n="p2"/><s n="pl"/></r></p></e>
+    </pardef>
   </pardefs>
   <section id="main" type="standard">
     <e lm="l" r="RL"><p><l><a/>l</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -324,6 +375,8 @@
     <e lm="internazzjonalment"><i>internazzjonalment</i><par n="illum__adv"/></e>
     <e lm="nazzjonalment"><i>nazzjonalment</i><par n="illum__adv"/></e>
     <e lm="ma"><i>ma</i><par n="illum__adv"/></e>
+
+    <e lm="prnsubj"><i></i><par n="prnsubj__prn"/></e>
 
     <e lm="u"><i>u</i><par n="u__cnjcoo"/></e>
 
@@ -444,6 +497,7 @@
     <e lm="eżerċita"><par n="[aġġastja]__vblex" prm="eżerċita"/></e>
 
     <e lm="ta"><par n="/ta__vblex"/></e>
+    <e lm="gie"><par n="/gie__vblex"/></e>
   </section>
   <section id="blah" type="postblank">
     <e lm="xi" r="LR"><p><l>x'</l><r>xi</r></p><par n="xi__det"/></e>
