@@ -152,6 +152,9 @@
     <e><p><l>lemon<s n="n"/></l><r>lumija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reality<s n="n"/></l><r>realtà<s n="n"/><s n="f"/></r></p></e>
 
+    <e><p><l>most<s n="preadv"/></l><r>aktar<s n="preadv"/></r></p></e>
+    <e><p><l>very<s n="preadv"/></l><r>ħafna<s n="preadv"/></r></p></e>
+
     <e><p><l>what<s n="det"/><s n="itg"/></l><r>xi<s n="det"/><s n="itg"/><s n="mf"/></r></p></e>
     <e><p><l>his<s n="prn"/><s n="pos"/></l><r>tiegħu<s n="prn"/><s n="pos"/></r></p></e>
     <e><p><l>her<s n="prn"/><s n="pos"/></l><r>tagħha<s n="prn"/><s n="pos"/></r></p></e>
@@ -187,6 +190,51 @@
     <e><p><l>internationally<s n="adv"/></l><r>internazzjonalment<s n="adv"/></r></p></e>
     <e><p><l>nationally<s n="adv"/></l><r>nazzjonalment<s n="adv"/></r></p></e>
     <e><p><l>not<s n="adv"/></l><r>ma<s n="adv"/></r></p></e>
+    <e><p><l>here<s n="adv"/></l><r>hawn<s n="adv"/></r></p></e>
+    <e><p><l>there<s n="adv"/></l><r>hemm<s n="adv"/></r></p></e>
+    <e><p><l>over<b/>there<s n="adv"/></l><r>hemmhekk<s n="adv"/></r></p></e>
+    <e><p><l>everywhere<s n="adv"/></l><r>kullimkien<s n="adv"/></r></p></e>
+    <e><p><l>anywhere<s n="adv"/></l><r>kullimkien<s n="adv"/></r></p></e>
+    <e><p><l>nowhere<s n="adv"/></l><r>imkien<s n="adv"/></r></p></e>
+    <e><p><l>home<s n="adv"/></l><r>id-dar<s n="adv"/></r></p></e>
+    <e><p><l>out<s n="adv"/></l><r>barra<s n="adv"/></r></p></e>
+    <e><p><l>yet<s n="adv"/></l><r>s'issa<s n="adv"/></r></p></e>
+    <e><p><l>ago<s n="adv"/></l><r>ilu<s n="adv"/></r></p></e>
+    <e><p><l>yesterday<s n="adv"/></l><r>ilbieraħ<s n="adv"/></r></p></e>
+    <e><p><l>tomorrow<s n="adv"/></l><r>għada<s n="adv"/></r></p></e>
+    <e><p><l>now<s n="adv"/></l><r>issa<s n="adv"/></r></p></e>
+    <e><p><l>then<s n="adv"/></l><r>mbagħad<s n="adv"/></r></p></e>
+    <e><p><l>later<s n="adv"/></l><r>aktar<b/>tard<s n="adv"/></r></p></e>
+    <e><p><l>tonight<s n="adv"/></l><r>illejla<s n="adv"/></r></p></e>
+    <e><p><l>right<b/>now<s n="adv"/></l><r>issa<b/>stess<s n="adv"/></r></p></e>
+    <e><p><l>last<b/>night<s n="adv"/></l><r>il-lejl<b/>li<b/>għadda<s n="adv"/></r></p></e>
+    <e><p><l>this<b/>morning<s n="adv"/></l><r>dalgħodu<s n="adv"/></r></p></e>
+    <e><p><l>next<b/>week<s n="adv"/></l><r>il-ġimgħa<b/>d-dieħla<s n="adv"/></r></p></e>
+    <e><p><l>already<s n="adv"/></l><r>diġà<s n="adv"/></r></p></e>
+    <e><p><l>recently<s n="adv"/></l><r>riċentament<s n="adv"/></r></p></e>
+    <e><p><l>lately<s n="adv"/></l><r>dan<b/>l-aħħar<s n="adv"/></r></p></e>
+    <e><p><l>soon<s n="adv"/></l><r>dalwaqt<s n="adv"/></r></p></e>
+    <e><p><l>immediately<s n="adv"/></l><r>immedjatament<s n="adv"/></r></p></e>
+    <e><p><l>quite<s n="adv"/></l><r>pjuttost<s n="adv"/></r></p></e>
+    <e><p><l>really<s n="adv"/></l><r>verament<s n="adv"/></r></p></e>
+    <e><p><l>well<s n="adv"/></l><r>tajjeb<s n="adv"/></r></p></e>
+    <e><p><l>quickly<s n="adv"/></l><r>malajr<s n="adv"/></r></p></e>
+    <e><p><l>slowly<s n="adv"/></l><r>bilmod<s n="adv"/></r></p></e>
+    <e><p><l>carefully<s n="adv"/></l><r>b'attenzjoni<s n="adv"/></r></p></e>
+    <e><p><l>hardly<s n="adv"/></l><r>bilkemm<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>barely<s n="adv"/></l><r>bilkemm<s n="adv"/></r></p></e>
+    <e><p><l>mostly<s n="adv"/></l><r>l-aktar<s n="adv"/></r></p></e>
+    <e><p><l>almost<s n="adv"/></l><r>kważi<s n="adv"/></r></p></e>
+    <e><p><l>absolutely<s n="adv"/></l><r>assolutament<s n="adv"/></r></p></e>
+    <e><p><l>together<s n="adv"/></l><r>flimkien<s n="adv"/></r></p></e>
+    <e><p><l>always<s n="adv"/></l><r>dejjem<s n="adv"/></r></p></e>
+    <e><p><l>frequently<s n="adv"/></l><r>spiss<s n="adv"/></r></p></e>
+    <e><p><l>usually<s n="adv"/></l><r>normalment<s n="adv"/></r></p></e>
+    <e><p><l>sometimes<s n="adv"/></l><r>kultant<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>occasionally<s n="adv"/></l><r>kultant<s n="adv"/></r></p></e>
+    <e><p><l>rarely<s n="adv"/></l><r>rari<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>seldom<s n="adv"/></l><r>rari<s n="adv"/></r></p></e>
+    <e><p><l>never<s n="adv"/></l><r>qatt<s n="adv"/></r></p></e>
 
     <e><p><l>where<s n="adv"/></l><r>fejn<s n="adv"/></r></p></e>
     <e><p><l>why<s n="adv"/></l><r>għaliex<s n="adv"/></r></p></e>

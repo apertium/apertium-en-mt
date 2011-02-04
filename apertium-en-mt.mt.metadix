@@ -33,8 +33,12 @@
     <sdef n="subj"/>
     <sdef n="pos"/>
     <sdef n="ord"/>
+    <sdef n="preadv"/>
   </sdefs>
   <pardefs>
+    <pardef n="aktar__preadv">
+      <e><p><l/><r><s n="preadv"/></r></p></e>
+    </pardef>
     <pardef n="illum__adv">
       <e><p><l/><r><s n="adv"/></r></p></e>
     </pardef>
@@ -425,6 +429,55 @@
     <e lm="internazzjonalment"><i>internazzjonalment</i><par n="illum__adv"/></e>
     <e lm="nazzjonalment"><i>nazzjonalment</i><par n="illum__adv"/></e>
     <e lm="ma"><i>ma</i><par n="illum__adv"/></e>
+
+    <e lm="aktar"><i>aktar</i><par n="aktar__preadv"/></e>
+    <e lm="ħafna"><i>ħafna</i><par n="aktar__preadv"/></e>
+
+    <e lm="aktar tard"><i>aktar<b/>tard</i><par n="illum__adv"/></e>
+    <e lm="assolutament"><i>assolutament</i><par n="illum__adv"/></e>
+    <e lm="b'attenzjoni"><i>b'attenzjoni</i><par n="illum__adv"/></e>
+    <e lm="barra"><i>barra</i><par n="illum__adv"/></e>
+    <e lm="bilkemm"><i>bilkemm</i><par n="illum__adv"/></e>
+    <e lm="bilmod"><i>bilmod</i><par n="illum__adv"/></e>
+    <e lm="dalgħodu"><i>dalgħodu</i><par n="illum__adv"/></e>
+    <e lm="dalwaqt"><i>dalwaqt</i><par n="illum__adv"/></e>
+    <e lm="dan l-aħħar"><i>dan<b/>l-aħħar</i><par n="illum__adv"/></e>
+    <e lm="dejjem"><i>dejjem</i><par n="illum__adv"/></e>
+    <e lm="diġà"><i>diġà</i><par n="illum__adv"/></e>
+    <e lm="flimkien"><i>flimkien</i><par n="illum__adv"/></e>
+    <e lm="għada"><i>għada</i><par n="illum__adv"/></e>
+    <e lm="hawn"><i>hawn</i><par n="illum__adv"/></e>
+    <e lm="hemm"><i>hemm</i><par n="illum__adv"/></e>
+    <e lm="hemmhekk"><i>hemmhekk</i><par n="illum__adv"/></e>
+    <e lm="id-dar"><i>id-dar</i><par n="illum__adv"/></e>
+    <e lm="il-lejl li għadda"><i>il-lejl<b/>li<b/>għadda</i><par n="illum__adv"/></e>
+    <e lm="il-ġimgħa d-dieħla"><i>il-ġimgħa<b/>d-dieħla</i><par n="illum__adv"/></e>
+    <e lm="ilbieraħ"><i>ilbieraħ</i><par n="illum__adv"/></e>
+    <e lm="illejla"><i>illejla</i><par n="illum__adv"/></e>
+    <e lm="ilu"><i>ilu</i><par n="illum__adv"/></e>
+    <e lm="imkien"><i>imkien</i><par n="illum__adv"/></e>
+    <e lm="immedjatament"><i>immedjatament</i><par n="illum__adv"/></e>
+    <e lm="internazzjonalment"><i>internazzjonalment</i><par n="illum__adv"/></e>
+    <e lm="issa"><i>issa</i><par n="illum__adv"/></e>
+    <e lm="issa stess"><i>issa<b/>stess</i><par n="illum__adv"/></e>
+    <e lm="kullimkien"><i>kullimkien</i><par n="illum__adv"/></e>
+    <e lm="kultant"><i>kultant</i><par n="illum__adv"/></e>
+    <e lm="kważi"><i>kważi</i><par n="illum__adv"/></e>
+    <e lm="l-aktar"><i>l-aktar</i><par n="illum__adv"/></e>
+    <e lm="ma"><i>ma</i><par n="illum__adv"/></e>
+    <e lm="malajr"><i>malajr</i><par n="illum__adv"/></e>
+    <e lm="mbagħad"><i>mbagħad</i><par n="illum__adv"/></e>
+    <e lm="nazzjonalment"><i>nazzjonalment</i><par n="illum__adv"/></e>
+    <e lm="normalment"><i>normalment</i><par n="illum__adv"/></e>
+    <e lm="pjuttost"><i>pjuttost</i><par n="illum__adv"/></e>
+    <e lm="qatt"><i>qatt</i><par n="illum__adv"/></e>
+    <e lm="rari"><i>rari</i><par n="illum__adv"/></e>
+    <e lm="riċentament"><i>riċentament</i><par n="illum__adv"/></e>
+    <e lm="s'issa"><i>s'issa</i><par n="illum__adv"/></e>
+    <e lm="spiss"><i>spiss</i><par n="illum__adv"/></e>
+    <e lm="tajjeb"><i>tajjeb</i><par n="illum__adv"/></e>
+    <e lm="verament"><i>verament</i><par n="illum__adv"/></e>
+    <e lm="ħafna"><i>ħafna</i><par n="illum__adv"/></e>
 
     <e lm="min"><i>min</i><par n="min__prn"/></e>
     <e lm="xiex"><i>xiex</i><par n="min__prn"/></e>
