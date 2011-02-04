@@ -39,6 +39,21 @@
       <e><p><l/><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>s</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
+    <!-- check gender -->
+    <pardef n="friġ/ġ__n">
+      <e><p><l>ġ</l><r>ġ<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>is</l><r>ġ<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>ġijiet</l><r>ġ<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="k/tieb__n">
+      <e><p><l>tieb</l><r>tieb<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>otba</l><r>tieb<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="/raġel__n">
+      <e><p><l>raġel</l><r>raġel<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>irġiel</l><r>raġel<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    </pardef>
+    <!-- /check -->
     <pardef n="dad/a__n">
       <e><p><l>a</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>i</l><r>a<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -154,6 +169,10 @@
     <e lm="bużżieqa"><i>b</i><par n="b/użżieqa__n"/></e>
     <e lm="eżempju"><i>eżempj</i><par n="eżempj/u__n"/></e>
     <e lm="eżerċizzju"><i>eżerċizzj</i><par n="eżempj/u__n"/></e>
+    <e lm="eżerċizzju"><i>eżerċizzj</i><par n="eżempj/u__n"/></e>
+    <e lm="friġġ"><i>friġ</i><par n="friġ/ġ__n"/></e>
+    <e lm="ktieb"><i>k</i><par n="k/tieb__n"/></e>
+    <e lm="raġel"><i></i><par n="/raġel__n"/></e>
 
 <!--
     <e lm="ittraduċa"><par n="[ittraduċ]a__vblex" prm="ittraduċ"/></e>
