@@ -167,7 +167,7 @@
   <section id="blah" type="postblank">
     <e lm="l" r="LR"><p><l>l-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
     <e lm="l" r="LR"><p><l>il-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
-    <e lm="l" r="LR"><p><l>ic-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="l" r="LR"><p><l>iċ-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
     <e lm="l" r="LR"><p><l>id-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
     <e lm="l" r="LR"><p><l>in-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
     <e lm="l" r="LR"><p><l>ir-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -175,6 +175,7 @@
     <e lm="l" r="LR"><p><l>it-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
     <e lm="l" r="LR"><p><l>ix-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
     <e lm="l" r="LR"><p><l>iz-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="l" r="LR"><p><l>iż-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
   </section>
 </dictionary>
 
