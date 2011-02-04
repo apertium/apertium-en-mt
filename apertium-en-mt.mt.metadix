@@ -79,6 +79,16 @@
       <e><p><l>a</l><r>u<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>i</l><r>u<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="Ċek__n">
+      <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>a</l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="deżert__n">
+      <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    </pardef>
 
 <!--
     <pardef n="[ittraduċ]a__vblex">
@@ -165,6 +175,7 @@
     <e lm="lingwa"><i>lingw</i><par n="dad/a__n"/></e>
     <e lm="enċiklopedija"><i>enċiklopedij</i><par n="dad/a__n"/></e>
     <e lm="Wikipedija"><i>Wikipedij</i><par n="dad/a__n"/></e>
+    <e lm="demokrazija"><i>demokrazij</i><par n="dad/a__n"/></e>
     <e lm="kwotazzjoni"><i>kwotazzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="azzjoni"><i>azzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="traduzzjoni"><i>traduzzjoni</i><par n="kwotazzjoni__n"/></e>
@@ -172,13 +183,16 @@
     <e lm="bużżieqa"><i>b</i><par n="b/użżieqa__n"/></e>
     <e lm="eżempju"><i>eżempj</i><par n="eżempj/u__n"/></e>
     <e lm="eżerċizzju"><i>eżerċizzj</i><par n="eżempj/u__n"/></e>
-    <e lm="eżerċizzju"><i>eżerċizzj</i><par n="eżempj/u__n"/></e>
     <e lm="friġġ"><i>friġ</i><par n="friġ/ġ__n"/></e>
     <e lm="ktieb"><i>k</i><par n="k/tieb__n"/></e>
     <e lm="raġel"><i></i><par n="/raġel__n"/></e>
     <e lm="bisesswalità"><i>bisesswalità</i><par n="bisesswalità__n"/></e>
     <e lm="eterosesswalità"><i>eterosesswalità</i><par n="bisesswalità__n"/></e>
     <e lm="omosesswalità"><i>omosesswalità</i><par n="bisesswalità__n"/></e>
+    <e lm="intensità"><i>intensità</i><par n="bisesswalità__n"/></e>
+    <e lm="diversità"><i>diversità</i><par n="bisesswalità__n"/></e>
+    <e lm="deżert"><i>deżert</i><par n="deżert__n"/></e>
+    <e lm="Ċek"><i>Ċek</i><par n="Ċek__n"/></e>
 
 <!--
     <e lm="ittraduċa"><par n="[ittraduċ]a__vblex" prm="ittraduċ"/></e>

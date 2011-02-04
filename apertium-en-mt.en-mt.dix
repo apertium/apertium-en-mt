@@ -32,6 +32,8 @@
   <section id="main" type="standard">
     <e r="RL"><p><l>clown<s n="n"/></l><r>buffu<s n="n"/></r></p></e>
     <e r="LR"><p><l>clown<s n="n"/></l><r>buffu<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Czech<s n="n"/></l><r>Ċek<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Czech<s n="n"/></l><r>Ċek<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>excitation<s n="n"/></l><r>eċċitazzjoni<s n="n"/><s n="f"/></r></p></e>
     <e srl="chest D" slr="dada D"><p><l>chest<s n="n"/></l><r>dada<s n="n"/><s n="f"/></r></p></e>
     <e srl="breast"><p><l>breast<s n="n"/></l><r>dada<s n="n"/><s n="f"/></r></p></e>
@@ -51,12 +53,17 @@
     <e><p><l>language<s n="n"/></l><r>lingwa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>encyclopaedia<s n="n"/></l><r>enċiklopedija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Wikipedia<s n="n"/></l><r>Wikipedija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>democracy<s n="n"/></l><r>demokrazija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fridge<s n="n"/></l><r>friġġ<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>book<s n="n"/></l><r>ktieb<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>man<s n="n"/></l><r>raġel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>desert<s n="n"/></l><r>deżert<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bisexuality<s n="n"/></l><r>bisesswalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>heterosexuality<s n="n"/></l><r>eterosesswalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>homosexuality<s n="n"/></l><r>omosesswalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>intensity<s n="n"/></l><r>intensità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>ability<s n="n"/></l><r>abilità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
+    <e><p><l>diversity<s n="n"/></l><r>diversità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
 
     <e><p><l>today<s n="adv"/></l><r>illum<s n="adv"/></r></p></e>
     <e><p><l>for<b/>example<s n="adv"/></l><r>per<b/>eżempju<s n="adv"/></r></p></e>
