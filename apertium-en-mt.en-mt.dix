@@ -23,6 +23,8 @@
     <sdef n="cnjcoo"/>
     <sdef n="pr"/>
     <sdef n="det"/>
+    <sdef n="def"/>
+    <sdef n="dem"/>
     <sdef n="itg"/>
     <sdef n="pos"/>
     <sdef n="ord"/>
@@ -44,6 +46,11 @@
     <e><p><l>on<s n="pr"/></l><r>fuq<s n="pr"/></r></p></e>
     <e><p><l>with<s n="pr"/></l><r>ma'<s n="pr"/></r></p></e>
     <e><p><l>till<s n="pr"/></l><r>sa<s n="pr"/></r></p></e>
+    <e><p><l>after<s n="pr"/></l><r>wara<s n="pr"/></r></p></e>
+    <e><p><l>by<s n="pr"/></l><r>minn<s n="pr"/></r></p></e>
+
+    <e><p><l>this<s n="det"/></l><r>dan<s n="det"/></r></p></e>
+    <e><p><l>that<s n="det"/></l><r>dak<s n="det"/></r></p></e>
 
     <e><p><l>first<s n="det"/></l><r>ewwel<s n="det"/></r></p></e>
     <e><p><l>second<s n="det"/></l><r>tieni<s n="det"/></r></p></e>
@@ -180,7 +187,15 @@
     <e><p><l>nationally<s n="adv"/></l><r>nazzjonalment<s n="adv"/></r></p></e>
     <e><p><l>not<s n="adv"/></l><r>ma<s n="adv"/></r></p></e>
 
+    <e><p><l>where<s n="adv"/></l><r>fejn<s n="adv"/></r></p></e>
+    <e><p><l>why<s n="adv"/></l><r>għaliex<s n="adv"/></r></p></e>
+    <e><p><l>how<s n="adv"/></l><r>kif<s n="adv"/></r></p></e>
+
+    <e><p><l>who<s n="prn"/><s n="itg"/></l><r>min<s n="prn"/><s n="itg"/></r></p></e>
+    <e><p><l>what<s n="prn"/><s n="itg"/></l><r>xiex<s n="prn"/><s n="itg"/></r></p></e>
+
     <e><p><l>and<s n="cnjcoo"/></l><r>u<s n="cnjcoo"/></r></p></e>
+    <e><p><l>or<s n="cnjcoo"/></l><r>jew<s n="cnjcoo"/></r></p></e>
 
     <e><p><l>translate<s n="vblex"/></l><r>ittraduċa<s n="vblex"/></r></p></e>
     <e><p><l>react<s n="vblex"/></l><r>irreaġixxa<s n="vblex"/></r></p></e>

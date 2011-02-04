@@ -4,6 +4,7 @@
     <sdef n="n"/>
     <sdef n="det"/>
     <sdef n="def"/>
+    <sdef n="dem"/>
     <sdef n="itg"/>
     <sdef n="pp"/>
     <sdef n="imp"/>
@@ -36,6 +37,12 @@
   <pardefs>
     <pardef n="illum__adv">
       <e><p><l/><r><s n="adv"/></r></p></e>
+    </pardef>
+    <pardef n="fejn__adv">
+      <e><p><l/><r><s n="adv"/><s n="itg"/></r></p></e>
+    </pardef>
+    <pardef n="min__prn">
+      <e><p><l/><r><s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/></r></p></e>
     </pardef>
     <pardef n="u__cnjcoo">
       <e><p><l/><r><s n="cnjcoo"/></r></p></e>
@@ -106,6 +113,14 @@
     </pardef>
     <pardef n="ewwel__det">
       <e><p><l/><r><s n="det"/><s n="ord"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="da/n__det">
+      <e><p><l>n</l><r>n<s n="det"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>wn</l><r>n<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="da/k__det">
+      <e><p><l>k</l><r>k<s n="det"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>wk</l><r>k<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="pikkanti__adj">
@@ -404,6 +419,13 @@
     <e lm="nazzjonalment"><i>nazzjonalment</i><par n="illum__adv"/></e>
     <e lm="ma"><i>ma</i><par n="illum__adv"/></e>
 
+    <e lm="min"><i>min</i><par n="min__prn"/></e>
+    <e lm="xiex"><i>xiex</i><par n="min__prn"/></e>
+
+    <e lm="fejn"><i>fejn</i><par n="fejn__adv"/></e>
+    <e lm="għaliex"><i>għaliex</i><par n="fejn__adv"/></e>
+    <e lm="kif"><i>kif</i><par n="fejn__adv"/></e>
+
     <e lm="prnsubj"><i></i><par n="prnsubj__prn"/></e>
     <e lm="tagħha"><i>tagħha</i><par n="tagħha__prn"/></e>
     <e lm="tiegħek"><i>tiegħek</i><par n="tagħha__prn"/></e>
@@ -414,10 +436,13 @@
     <e lm="tiegħu"><i>tiegħu</i><par n="tagħha__prn"/></e>
 
     <e lm="u"><i>u</i><par n="u__cnjcoo"/></e>
+    <e lm="jew"><i>jew</i><par n="u__cnjcoo"/></e>
 
     <e lm="kontra"><i>kontra</i><par n="kontra__pr"/></e>
     <e lm="minn"><i>minn</i><par n="kontra__pr"/></e>
     <e lm="fuq"><i>fuq</i><par n="kontra__pr"/></e>
+    <e lm="wara"><i>wara</i><par n="kontra__pr"/></e>
+    <e lm="minn"><i>minn</i><par n="kontra__pr"/></e>
     <e lm="ta'" r="LR"><i>ta'</i><par n="kontra__pr"/></e>
     <e lm="ta'" r="RL"><p><l><a/>ta'</l><r>ta'</r></p><par n="kontra__pr"/></e>
     <e lm="fi" r="LR"><i>fi</i><par n="kontra__pr"/></e>
