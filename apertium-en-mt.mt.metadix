@@ -239,7 +239,12 @@
     <e lm="u"><i>u</i><par n="u__cnjcoo"/></e>
 
     <e lm="kontra"><i>kontra</i><par n="kontra__pr"/></e>
-    <e lm="ta'"><i>ta'</i><par n="kontra__pr"/></e>
+    <e lm="ta'" r="LR"><i>ta'</i><par n="kontra__pr"/></e>
+    <e lm="ta'" r="RL"><p><l><a/>ta'</l></r>ta'</r></p><par n="kontra__pr"/></e>
+    <e lm="fi" r="LR"><i>fi</i><par n="kontra__pr"/></e>
+    <e lm="fi" r="RL"><p><l><a/>fi</l></r>fi</r></p><par n="kontra__pr"/></e>
+    <e lm="ma'" r="LR"><i>ma'</i><par n="kontra__pr"/></e>
+    <e lm="ma'" r="RL"><p><l><a/>ma'</l></r>ma'</r></p><par n="kontra__pr"/></e>
 
     <e lm="li"><i>li</i><par n="li__rel"/></e>
     <e lm="xi" r="LR"><i>xi</i><par n="xi__det"/></e>
@@ -325,6 +330,7 @@
   </section>
   <section id="blah" type="postblank">
     <e lm="xi" r="LR"><p><l>x'</l><r>xi</r></p><par n="xi__det"/></e>
+    <e lm="fi" r="LR"><p><l>f'</l><r>fi</r></p><par n="kontra__pr"/></e>
 
     <e lm="l" r="LR"><p><l>l-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
     <e lm="l" r="LR"><p><l>il-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -338,7 +344,6 @@
     <e lm="l" r="LR"><p><l>iz-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
     <e lm="l" r="LR"><p><l>iż-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
 
-    <!-- not sure about these -->
     <e lm="tal" r="LR"><p><l>tal-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
     <e lm="tal" r="LR"><p><l>taċ-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
     <e lm="tal" r="LR"><p><l>tad-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -349,6 +354,29 @@
     <e lm="tal" r="LR"><p><l>tax-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
     <e lm="tal" r="LR"><p><l>taz-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
     <e lm="tal" r="LR"><p><l>taż-</l><r>ta'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+
+    <e lm="tal" r="LR"><p><l>fil-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="tal" r="LR"><p><l>fl-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="tal" r="LR"><p><l>fiċ-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="tal" r="LR"><p><l>fid-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="tal" r="LR"><p><l>fin-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="tal" r="LR"><p><l>fir-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="tal" r="LR"><p><l>fis-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="tal" r="LR"><p><l>fit-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="tal" r="LR"><p><l>fix-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="tal" r="LR"><p><l>fiz-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="tal" r="LR"><p><l>fiż-</l><r>fi<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+
+    <e lm="mal" r="LR"><p><l>mal-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="mal" r="LR"><p><l>maċ-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="mal" r="LR"><p><l>mad-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="mal" r="LR"><p><l>man-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="mal" r="LR"><p><l>mar-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="mal" r="LR"><p><l>mas-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="mal" r="LR"><p><l>mat-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="mal" r="LR"><p><l>max-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="mal" r="LR"><p><l>maz-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="mal" r="LR"><p><l>maż-</l><r>ma'<s n="pr"/><j/>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
   </section>
 </dictionary>
 
