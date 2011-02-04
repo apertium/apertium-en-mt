@@ -32,6 +32,46 @@
       <e><p><l/><r><s n="cnjcoo"/></r></p></e>
     </pardef>
 
+    <pardef n="pikkanti__adj">
+      <e><p><l/><r><s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="ġ/did__adj">
+      <e><p><l>did</l><r>did<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>dida</l><r>did<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>odda</l><r>did<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>odda</l><r>did<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="/aħmar__adj">
+      <e><p><l>aħmar</l><r>aħmar<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ħamra</l><r>aħmar<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>ħomor</l><r>aħmar<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>ħomor</l><r>aħmar<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="/aħdar__adj">
+      <e><p><l>aħdar</l><r>aħdar<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ħadra</l><r>aħdar<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>ħodor</l><r>aħdar<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>ħodor</l><r>aħdar<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="/abjad__adj">
+      <e><p><l>abjad</l><r>abjad<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>bajda</l><r>abjad<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>bohod</l><r>abjad<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>bojod</l><r>abjad<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="/iswed__adj">
+      <e><p><l>iswed</l><r>iswed<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>sewda</l><r>iswed<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>suwed</l><r>iswed<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>suwed</l><r>iswed<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="griż__adj">
+      <e><p><l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>a</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r><s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>i</l><r><s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <pardef n="Ewropa__np">
       <e><p><l/><r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>

@@ -86,6 +86,13 @@
     <e r="LR"><p><l>verity<s n="n"/></l><r>verità<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>truth<s n="n"/></l><r>verità<s n="n"/><s n="f"/></r></p></e>
 
+    <e><p><l>spicy<s n="adj"/><s n="sint"/></l><r>pikkanti<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>picant<s n="adj"/></l><r>pikkanti<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>red<s n="adj"/><s n="sint"/></l><r>aħmar<s n="adj"/></r></p></e>
+    <e><p><l>green<s n="adj"/><s n="sint"/></l><r>aħdar<s n="adj"/></r></p></e>
+    <e><p><l>white<s n="adj"/><s n="sint"/></l><r>abjad<s n="adj"/></r></p></e>
+    <e><p><l>black<s n="adj"/><s n="sint"/></l><r>iswed<s n="adj"/></r></p></e>
+
     <e><p><l>today<s n="adv"/></l><r>illum<s n="adv"/></r></p></e>
     <e><p><l>for<b/>example<s n="adv"/></l><r>per<b/>eżempju<s n="adv"/></r></p></e>
     <e><p><l>internationally<s n="adv"/></l><r>internazzjonalment<s n="adv"/></r></p></e>
