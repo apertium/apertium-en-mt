@@ -23,6 +23,7 @@
     <sdef n="np"/>
     <sdef n="top"/>
     <sdef n="cnjcoo"/>
+    <sdef n="pr"/>
   </sdefs>
   <pardefs>
     <pardef n="illum__adv">
@@ -219,6 +220,9 @@
     <e lm="nazzjonalment"><i>nazzjonalment</i><par n="illum__adv"/></e>
 
     <e lm="u"><i>u</i><par n="u__cnjcoo"/></e>
+
+    <e lm="kontra"><i>kontra</i><par n="kontra__pr"/></e>
+    <e lm="ta'"><i>ta'</i><par n="kontra__pr"/></e>
 
 <!--
     <e lm="kbir"><i>kb</i><par n="kb/i[r]__adj" prm="r"/></e>
