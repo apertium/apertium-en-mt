@@ -59,7 +59,27 @@
     <e><p><l>language<s n="n"/></l><r>lingwa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>encyclopaedia<s n="n"/></l><r>enċiklopedija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Wikipedia<s n="n"/></l><r>Wikipedija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>category<s n="n"/></l><r>kategorija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>subcategory<s n="n"/></l><r>sottokategorija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>democracy<s n="n"/></l><r>demokrazija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>artist<s n="n"/></l><r>artista<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>nationalist<s n="n"/></l><r>nazzjonalista<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>guitarist<s n="n"/></l><r>kitarrista<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>socialist<s n="n"/></l><r>soċjalista<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>finalist<s n="n"/></l><r>finalista<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>specialist<s n="n"/></l><r>speċjalista<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>communist<s n="n"/></l><r>komunista<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>pianist<s n="n"/></l><r>pjanista<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>humanist<s n="n"/></l><r>umanista<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>flautist<s n="n"/></l><r>flawtista<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>satanist<s n="n"/></l><r>satanista<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>violinist<s n="n"/></l><r>vjolinista<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>Marxist<s n="n"/></l><r>Marxista<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>anti-Marxist<s n="n"/></l><r>anti-Marxista<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>reformist<s n="n"/></l><r>riformista<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>linguist<s n="n"/></l><r>lingwista<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>scientist<s n="n"/></l><r>xjentista<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>terrorist<s n="n"/></l><r>terrorista<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>fridge<s n="n"/></l><r>friġġ<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>book<s n="n"/></l><r>ktieb<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>man<s n="n"/></l><r>raġel<s n="n"/><s n="m"/></r></p></e>

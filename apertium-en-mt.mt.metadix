@@ -137,6 +137,10 @@
       <e><p><l>u</l><r>u<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>i</l><r>u<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="artist/a__n">
+      <e><p><l>a</l><r>u<s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r>u<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
     <pardef n="b/użżieqa__n">
       <e><p><l>użżieqa</l><r>użżieqa<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>żieżaq</l><r>użżieqa<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -241,6 +245,7 @@
     <e lm="fi" r="RL"><p><l><a/>fi</l><r>fi</r></p><par n="kontra__pr"/></e>
     <e lm="ma'" r="LR"><i>ma'</i><par n="kontra__pr"/></e>
     <e lm="ma'" r="RL"><p><l><a/>ma'</l><r>ma'</r></p><par n="kontra__pr"/></e>
+    <e lm="ma'" r="RL"><p><l><a/>ma</l><r>ma'</r></p><par n="kontra__pr"/></e>
 
     <e lm="li"><i>li</i><par n="li__rel"/></e>
     <e lm="xi" r="LR"><i>xi</i><par n="xi__det"/></e>
@@ -274,6 +279,8 @@
     <e lm="enċiklopedija"><i>enċiklopedij</i><par n="dad/a__n"/></e>
     <e lm="Wikipedija"><i>Wikipedij</i><par n="dad/a__n"/></e>
     <e lm="demokrazija"><i>demokrazij</i><par n="dad/a__n"/></e>
+    <e lm="kategorija"><i>kategorij</i><par n="dad/a__n"/></e>
+    <e lm="sottokategorija"><i>sottokategorij</i><par n="dad/a__n"/></e>
     <e lm="kwotazzjoni"><i>kwotazzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="azzjoni"><i>azzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="traduzzjoni"><i>traduzzjoni</i><par n="kwotazzjoni__n"/></e>
@@ -284,6 +291,24 @@
     <e lm="friġġ"><i>friġ</i><par n="friġ/ġ__n"/></e>
     <e lm="ktieb"><i>k</i><par n="k/tieb__n"/></e>
     <e lm="raġel"><i></i><par n="/raġel__n"/></e>
+    <e lm="artista"><i>artist</i><par n="artist/a__n"/></e>
+    <e lm="nazzjonalista"><i>nazzjonalist</i><par n="artist/a__n"/></e>
+    <e lm="kitarrista"><i>kitarrist</i><par n="artist/a__n"/></e>
+    <e lm="soċjalista"><i>soċjalist</i><par n="artist/a__n"/></e>
+    <e lm="finalista"><i>finalist</i><par n="artist/a__n"/></e>
+    <e lm="speċjalista"><i>speċjalist</i><par n="artist/a__n"/></e>
+    <e lm="komunista"><i>komunist</i><par n="artist/a__n"/></e>
+    <e lm="pjanista"><i>pjanist</i><par n="artist/a__n"/></e>
+    <e lm="umanista"><i>umanist</i><par n="artist/a__n"/></e>
+    <e lm="flawtista"><i>flawtist</i><par n="artist/a__n"/></e>
+    <e lm="satanista"><i>satanist</i><par n="artist/a__n"/></e>
+    <e lm="vjolinista"><i>vjolinist</i><par n="artist/a__n"/></e>
+    <e lm="Marxista"><i>Marxist</i><par n="artist/a__n"/></e>
+    <e lm="anti-Marxista"><i>anti-Marxist</i><par n="artist/a__n"/></e>
+    <e lm="riformista"><i>riformist</i><par n="artist/a__n"/></e>
+    <e lm="lingwista"><i>lingwist</i><par n="artist/a__n"/></e>
+    <e lm="xjentista"><i>xjentist</i><par n="artist/a__n"/></e>
+    <e lm="terrorista"><i>terrorist</i><par n="artist/a__n"/></e>
     <e lm="abilità"><i>abilit</i><par n="oxxenit/à__n"/></e>
     <e lm="attività"><i>attivit</i><par n="oxxenit/à__n"/></e>
     <e lm="bijodiversità"><i>bijodiversità</i><par n="bisesswalità__n"/></e>
