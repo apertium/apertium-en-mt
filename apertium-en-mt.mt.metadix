@@ -24,6 +24,8 @@
     <sdef n="top"/>
     <sdef n="cnjcoo"/>
     <sdef n="pr"/>
+    <sdef n="rel"/>
+    <sdef n="an"/>
   </sdefs>
   <pardefs>
     <pardef n="illum__adv">
@@ -31,6 +33,12 @@
     </pardef>
     <pardef n="u__cnjcoo">
       <e><p><l/><r><s n="cnjcoo"/></r></p></e>
+    </pardef>
+    <pardef n="kontra__pr">
+      <e><p><l/><r><s n="pr"/></r></p></e>
+    </pardef>
+    <pardef n="li__rel">
+      <e><p><l/><r><s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
     <pardef n="pikkanti__adj">
@@ -227,6 +235,8 @@
 
     <e lm="kontra"><i>kontra</i><par n="kontra__pr"/></e>
     <e lm="ta'"><i>ta'</i><par n="kontra__pr"/></e>
+
+    <e lm="li"><i>li</i><par n="li__rel"/></e>
 
 <!--
     <e lm="kbir"><i>kb</i><par n="kb/i[r]__adj" prm="r"/></e>
