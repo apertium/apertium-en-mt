@@ -103,6 +103,10 @@
       <e r="LR"><p><l>ġijiet</l><r>ġ<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
     <!-- /check -->
+    <pardef n="mistoqsij/a__n">
+      <e><p><l>a</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>iet</l><r>a<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
     <pardef n="k/tieb__n">
       <e><p><l>tieb</l><r>tieb<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>otba</l><r>tieb<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -287,6 +291,8 @@
     <e lm="utilità"><i>utilit</i><par n="oxxenit/à__n"/></e>
     <e lm="vanità"><i>vanit</i><par n="oxxenit/à__n"/></e>
     <e lm="veloċità"><i>veloċit</i><par n="oxxenit/à__n"/></e>
+    <e lm="mistoqsija"><i>mistoqsij</i><par n="mistoqsij/a__n"/></e>
+    <e lm="lumija"><i>lumij</i><par n="mistoqsij/a__n"/></e>
     <e lm="verità"><i>verit</i><par n="oxxenit/à__n"/></e>
     <e lm="deżert"><i>deżert</i><par n="deżert__n"/></e>
     <e lm="Ċek"><i>Ċek</i><par n="Ċek__n"/></e>
