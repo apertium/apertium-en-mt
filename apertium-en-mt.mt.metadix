@@ -274,6 +274,7 @@
     <e lm="per eżempju"><i>per<b/>eżempju</i><par n="illum__adv"/></e>
     <e lm="internazzjonalment"><i>internazzjonalment</i><par n="illum__adv"/></e>
     <e lm="nazzjonalment"><i>nazzjonalment</i><par n="illum__adv"/></e>
+    <e lm="ma"><i>ma</i><par n="illum__adv"/></e>
 
     <e lm="u"><i>u</i><par n="u__cnjcoo"/></e>
 
@@ -288,7 +289,6 @@
     <e lm="bi" r="RL"><p><l><a/>bi</l><r>bi</r></p><par n="kontra__pr"/></e>
     <e lm="ma'" r="LR"><i>ma'</i><par n="kontra__pr"/></e>
     <e lm="ma'" r="RL"><p><l><a/>ma'</l><r>ma'</r></p><par n="kontra__pr"/></e>
-    <e lm="ma'" r="LR"><p><l>ma</l><r>ma'</r></p><par n="kontra__pr"/></e>
     <e lm="għal" r="LR"><i>għal</i><par n="kontra__pr"/></e>
     <e lm="għal" r="RL"><p><l><a/>għal</l><r>għal</r></p><par n="kontra__pr"/></e>
     <e lm="sa" r="LR"><i>sa</i><par n="kontra__pr"/></e>
