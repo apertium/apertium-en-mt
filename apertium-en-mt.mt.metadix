@@ -240,11 +240,11 @@
 
     <e lm="kontra"><i>kontra</i><par n="kontra__pr"/></e>
     <e lm="ta'" r="LR"><i>ta'</i><par n="kontra__pr"/></e>
-    <e lm="ta'" r="RL"><p><l><a/>ta'</l></r>ta'</r></p><par n="kontra__pr"/></e>
+    <e lm="ta'" r="RL"><p><l><a/>ta'</l><r>ta'</r></p><par n="kontra__pr"/></e>
     <e lm="fi" r="LR"><i>fi</i><par n="kontra__pr"/></e>
-    <e lm="fi" r="RL"><p><l><a/>fi</l></r>fi</r></p><par n="kontra__pr"/></e>
+    <e lm="fi" r="RL"><p><l><a/>fi</l><r>fi</r></p><par n="kontra__pr"/></e>
     <e lm="ma'" r="LR"><i>ma'</i><par n="kontra__pr"/></e>
-    <e lm="ma'" r="RL"><p><l><a/>ma'</l></r>ma'</r></p><par n="kontra__pr"/></e>
+    <e lm="ma'" r="RL"><p><l><a/>ma'</l><r>ma'</r></p><par n="kontra__pr"/></e>
 
     <e lm="li"><i>li</i><par n="li__rel"/></e>
     <e lm="xi" r="LR"><i>xi</i><par n="xi__det"/></e>
