@@ -22,6 +22,8 @@
     <sdef n="ND"/>
     <sdef n="cnjcoo"/>
     <sdef n="pr"/>
+    <sdef n="det"/>
+    <sdef n="itg"/>
   </sdefs>
   <pardefs>
     <pardef n="SP">
@@ -91,6 +93,8 @@
     <e><p><l>truth<s n="n"/></l><r>verità<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>question<s n="n"/></l><r>mistoqsija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lemon<s n="n"/></l><r>lumija<s n="n"/><s n="f"/></r></p></e>
+
+    <e><p><l>what<s n="det"/><s n="itg"/></l><r>xi<s n="det"/><s n="itg"/><s n="mf"/></r></p></e>
 
     <e><p><l>spicy<s n="adj"/><s n="sint"/></l><r>pikkanti<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>picant<s n="adj"/></l><r>pikkanti<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
