@@ -31,6 +31,7 @@
     <sdef n="prn"/>
     <sdef n="subj"/>
     <sdef n="pos"/>
+    <sdef n="ord"/>
   </sdefs>
   <pardefs>
     <pardef n="illum__adv">
@@ -102,6 +103,9 @@
     </pardef>
     <pardef n="xi__det">
       <e><p><l/><r><s n="det"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="ewwel__det">
+      <e><p><l/><r><s n="det"/><s n="ord"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
     <pardef n="pikkanti__adj">
@@ -373,6 +377,26 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="l" r="RL"><p><l><a/>l</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="ewwel"><i>ewwel</i><par n="ewwel__det"/></e>
+    <e lm="tieni"><i>tieni</i><par n="ewwel__det"/></e>
+    <e lm="tielet"><i>tielet</i><par n="ewwel__det"/></e>
+    <e lm="raba'"><i>raba'</i><par n="ewwel__det"/></e>
+    <e lm="ħames"><i>ħames</i><par n="ewwel__det"/></e>
+    <e lm="sitt"><i>sitt</i><par n="ewwel__det"/></e>
+    <e lm="seba'"><i>seba'</i><par n="ewwel__det"/></e>
+    <e lm="tmien"><i>tmien</i><par n="ewwel__det"/></e>
+    <e lm="disa'"><i>disa'</i><par n="ewwel__det"/></e>
+    <e lm="għaxar"><i>għaxar</i><par n="ewwel__det"/></e>
+    <e lm="ħdax"><i>ħdax</i><par n="ewwel__det"/></e>
+    <e lm="tnax"><i>tnax</i><par n="ewwel__det"/></e>
+    <e lm="tlettax"><i>tlettax</i><par n="ewwel__det"/></e>
+    <e lm="erbatax"><i>erbatax</i><par n="ewwel__det"/></e>
+    <e lm="ħmistax"><i>ħmistax</i><par n="ewwel__det"/></e>
+    <e lm="sittax"><i>sittax</i><par n="ewwel__det"/></e>
+    <e lm="sbatax"><i>sbatax</i><par n="ewwel__det"/></e>
+    <e lm="tmintax"><i>tmintax</i><par n="ewwel__det"/></e>
+    <e lm="dsatax"><i>dsatax</i><par n="ewwel__det"/></e>
+    <e lm="għoxrin"><i>għoxrin</i><par n="ewwel__det"/></e>
 
     <e lm="illum"><i>illum</i><par n="illum__adv"/></e>
     <e lm="per eżempju"><i>per<b/>eżempju</i><par n="illum__adv"/></e>
