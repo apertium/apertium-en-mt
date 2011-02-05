@@ -282,14 +282,14 @@
 
     <pardef n="k/elma__n">
       <e><p><l>elma</l><r>elma<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l>elmiet</l><r>elma<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-      <e><p><l>liem</l><r>elma<s n="n"/><s n="f"/><s n="ct"/></r></p></e>
+      <e><p><l>elmiet</l><r>elma<s n="n"/><s n="f"/><s n="ct"/></r></p></e>
+      <e><p><l>liem</l><r>elma<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="tuffi/eħa__n">
       <e><p><l>eħa</l><r>eħa<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l>ħiet</l><r>eħa<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-      <e><p><l>eħ</l><r>eħa<s n="n"/><s n="f"/><s n="ct"/></r></p></e>
+      <e><p><l>ħiet</l><r>eħa<s n="n"/><s n="f"/><s n="ct"/></r></p></e>
+      <e><p><l>eħ</l><r>eħa<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="[ittraduċ]a__vblex">
