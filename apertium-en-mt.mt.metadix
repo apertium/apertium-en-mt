@@ -36,6 +36,8 @@
     <sdef n="ord"/>
     <sdef n="preadv"/>
     <sdef n="cnjadv"/>
+    <sdef n="vbser"/>
+    <sdef n="vbhaver"/>
   </sdefs>
   <pardefs>
     <pardef n="aktar__preadv">
@@ -497,6 +499,7 @@
     <e lm="tajjeb"><i>tajjeb</i><par n="illum__adv"/></e>
     <e lm="verament"><i>verament</i><par n="illum__adv"/></e>
     <e lm="ħafna"><i>ħafna</i><par n="illum__adv"/></e>
+    <e lm="regolarment"><i>regolarment</i><par n="illum__adv"/></e>
 
     <e lm="min"><i>min</i><par n="min__prn"/></e>
     <e lm="xiex"><i>xiex</i><par n="min__prn"/></e>
@@ -571,10 +574,14 @@
     <e lm="demokrazija"><i>demokrazij</i><par n="dad/a__n"/></e>
     <e lm="kategorija"><i>kategorij</i><par n="dad/a__n"/></e>
     <e lm="sottokategorija"><i>sottokategorij</i><par n="dad/a__n"/></e>
+    <e lm="kopertura"><i>kopertur</i><par n="dad/a__n"/></e>
     <e lm="kwotazzjoni"><i>kwotazzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="azzjoni"><i>azzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="traduzzjoni"><i>traduzzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="eċċitazzjoni"><i>eċċitazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="ispezzjoni"><i>ispezzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="ċertifikazzjoni"><i>ċertifikazzjoni</i><par n="kwotazzjoni__n"/></e>
+
     <e lm="bużżieqa"><i>b</i><par n="b/użżieqa__n"/></e>
     <e lm="eżempju"><i>eżempj</i><par n="eżempj/u__n"/></e>
     <e lm="eżerċizzju"><i>eżerċizzj</i><par n="eżempj/u__n"/></e>
@@ -600,6 +607,7 @@
     <e lm="xjentista"><i>xjentist</i><par n="artist/a__n"/></e>
     <e lm="terrorista"><i>terrorist</i><par n="artist/a__n"/></e>
     <e lm="realtà"><i>realt</i><par n="oxxenit/à__n"/></e>
+    <e lm="awtorità"><i>awtorit</i><par n="oxxenit/à__n"/></e>
     <e lm="abilità"><i>abilit</i><par n="oxxenit/à__n"/></e>
     <e lm="attività"><i>attivit</i><par n="oxxenit/à__n"/></e>
     <e lm="bijodiversità"><i>bijodiversità</i><par n="bisesswalità__n"/></e>
