@@ -5,6 +5,7 @@
     <sdef n="det"/>
     <sdef n="def"/>
     <sdef n="dem"/>
+    <sdef n="ind"/>
     <sdef n="itg"/>
     <sdef n="pp"/>
     <sdef n="imp"/>
@@ -130,6 +131,12 @@
       <e><p><l>awk</l><r>ak<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p><l>awk</l><r>ak<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="/ieħor__det">
+      <e><p><l>ieħor</l><r>ieħor<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>oħra</l><r>ieħor<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>oħrajn</l><r>ieħor<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>oħrajn</l><r>ieħor<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
 
     <pardef n="pikkanti__adj">
       <e><p><l/><r><s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -218,6 +225,10 @@
     <pardef n="kwotazzjoni__n">
       <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>jiet</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="s/ena__n">
+      <e><p><l>ena</l><r>ena<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>nin</l><r>ena<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="eżempj/u__n">
       <e><p><l>u</l><r>u<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -423,6 +434,7 @@
 
     <e lm="dan"><i>d</i><par n="d/an__det"/></e>
     <e lm="dak"><i>d</i><par n="d/ak__det"/></e>
+    <e lm="ieħor"><i></i><par n="/ieħor__det"/></e>
 
     <e lm="illum"><i>illum</i><par n="illum__adv"/></e>
     <e lm="per eżempju"><i>per<b/>eżempju</i><par n="illum__adv"/></e>
@@ -610,6 +622,7 @@
     <e lm="verità"><i>verit</i><par n="oxxenit/à__n"/></e>
     <e lm="deżert"><i>deżert</i><par n="deżert__n"/></e>
     <e lm="Ċek"><i>Ċek</i><par n="Ċek__n"/></e>
+    <e lm="sena"><i>s</i><par n="s/ena__n"/></e>
 
     <e lm="ittraduċa"><par n="[ittraduċ]a__vblex" prm="ittraduċ"/></e>
     <e lm="irreaġixxa"><par n="[ittraduċ]a__vblex" prm="irreaġixx"/></e>

@@ -73,6 +73,9 @@
     <e><p><l>nineteenth<s n="det"/></l><r>dsatax<s n="det"/></r></p></e>
     <e><p><l>twentieth<s n="det"/></l><r>għoxrin<s n="det"/></r></p></e>
 
+    <e><p><l>other<s n="det"/></l><r>ieħor<s n="det"/></r></p></e>
+    <e r="LR"><p><l>another<s n="det"/></l><r>ieħor<s n="det"/></r></p></e>
+
     <e r="RL"><p><l>clown<s n="n"/></l><r>buffu<s n="n"/></r></p></e>
     <e r="LR"><p><l>clown<s n="n"/></l><r>buffu<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Czech<s n="n"/></l><r>Ċek<s n="n"/></r></p></e>
@@ -85,6 +88,7 @@
     <e><p><l>example<s n="n"/></l><r>eżempju<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>exercise<s n="n"/></l><r>eżerċizzju<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bag<s n="n"/></l><r>borża<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>year<s n="n"/></l><r>sena<s n="n"/><s n="f"/></r></p></e>
     <e srl="bubble D"><p><l>bubble<s n="n"/></l><r>bużżieqa<s n="n"/><s n="f"/></r></p></e>
     <e srl="balloon"><p><l>balloon<s n="n"/></l><r>bużżieqa<s n="n"/><s n="f"/></r></p></e>
     <e srl="bladder"><p><l>bladder<s n="n"/></l><r>bużżieqa<s n="n"/><s n="f"/></r></p></e>
@@ -230,6 +234,7 @@
     <e><p><l>always<s n="adv"/></l><r>dejjem<s n="adv"/></r></p></e>
     <e><p><l>frequently<s n="adv"/></l><r>spiss<s n="adv"/></r></p></e>
     <e><p><l>usually<s n="adv"/></l><r>normalment<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>normally<s n="adv"/></l><r>normalment<s n="adv"/></r></p></e>
     <e><p><l>sometimes<s n="adv"/></l><r>kultant<s n="adv"/></r></p></e>
     <e r="LR"><p><l>occasionally<s n="adv"/></l><r>kultant<s n="adv"/></r></p></e>
     <e><p><l>rarely<s n="adv"/></l><r>rari<s n="adv"/></r></p></e>
