@@ -130,6 +130,7 @@
     <e><p><l>terrorist<s n="n"/></l><r>terrorista<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>coverage<s n="n"/></l><r>kopertura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fridge<s n="n"/></l><r>friġġ<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>house<s n="n"/></l><r>dar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>book<s n="n"/></l><r>ktieb<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>man<s n="n"/></l><r>raġel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>desert<s n="n"/></l><r>deżert<s n="n"/><s n="m"/></r></p></e>
@@ -197,6 +198,7 @@
     <e><p><l>deep<s n="adj"/><s n="sint"/></l><r>fond<s n="adj"/></r></p></e>
     <e><p><l>fresh<s n="adj"/><s n="sint"/></l><r>frisk<s n="adj"/></r></p></e>
     <e><p><l>heavy<s n="adj"/><s n="sint"/></l><r>tqil<s n="adj"/></r></p></e>
+    <e><p><l>circular<s n="adj"/></l><r>tond<s n="adj"/></r></p></e>
 
     <e><p><l>today<s n="adv"/></l><r>illum<s n="adv"/></r></p></e>
     <e><p><l>for<b/>example<s n="adv"/></l><r>per<b/>eżempju<s n="adv"/></r></p></e>
