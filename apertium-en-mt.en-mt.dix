@@ -21,6 +21,7 @@
     <sdef n="GD"/>
     <sdef n="ND"/>
     <sdef n="cnjcoo"/>
+    <sdef n="cnjadv"/>
     <sdef n="pr"/>
     <sdef n="det"/>
     <sdef n="def"/>
@@ -51,6 +52,9 @@
 
     <e><p><l>this<s n="det"/></l><r>dan<s n="det"/></r></p></e>
     <e><p><l>that<s n="det"/></l><r>dak<s n="det"/></r></p></e>
+
+    <e><p><l>if<s n="cnjadv"/></l><r>kieku<s n="cnjadv"/></r></p></e>
+    <e><p><l>if<s n="cnjadv"/></l><r>jekk<s n="cnjadv"/></r></p></e>
 
     <e><p><l>first<s n="det"/></l><r>ewwel<s n="det"/></r></p></e>
     <e><p><l>second<s n="det"/></l><r>tieni<s n="det"/></r></p></e>
