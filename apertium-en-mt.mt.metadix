@@ -183,6 +183,12 @@
       <e><p><l>i</l><r><s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p><l>i</l><r><s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="politik/u__adj">
+      <e><p><l>u</l><r>u<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>a</l><r>u<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r>u<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>i</l><r>u<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
 
     <pardef n="kb/i[r]__adj">
       <e><p><l>i<prm/></l><r>i<prm/><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
@@ -197,6 +203,10 @@
     <pardef n="extrej__n">
       <e><p><l/><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>s</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="moviment__n">
+      <e><p><l/><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="bisesswalità__n">
       <e><p><l/><r><s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -600,7 +610,10 @@
     <e lm="fond"><i>fond</i><par n="griż__adj"/></e>
     <e lm="tond"><i>tond</i><par n="griż__adj"/></e>
     <e lm="frisk"><i>frisk</i><par n="griż__adj"/></e>
+    <e lm="politiku"><i>politik</i><par n="politik/u__adj"/></e>
+    <e lm="letterarju"><i>letterarj</i><par n="politik/u__adj"/></e>
 
+    <e lm="moviment"><i>moviment</i><par n="moviment__n"/></e>
     <e lm="dar"><i>d</i><par n="d/ar__n"/></e>
     <e lm="extrej"><i>extrej</i><par n="extrej__n"/></e>
     <e lm="buffu"><i>buff</i><par n="buff/u__n"/></e>
