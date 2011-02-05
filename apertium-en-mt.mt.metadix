@@ -205,6 +205,10 @@
       <e><p><l>à</l><r>à<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>ajiet</l><r>à<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="d/ar__n">
+      <e><p><l>ar</l><r>ar<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>jar</l><r>ar<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    </pardef>
     <!-- check gender -->
     <pardef n="friġ/ġ__n">
       <e><p><l>ġ</l><r>ġ<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -414,6 +418,37 @@
       <e><p><l>ejjax</l><r>gie<s n="vblex"/><s n="imp"/><s n="neg"/><s n="p2"/><s n="sg"/></r></p></e>
       <e><p><l>ejjewx</l><r>gie<s n="vblex"/><s n="imp"/><s n="neg"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="/huwa__vbser">
+      <e><p><l>jiena</l><r>huwa<s n="vbser"/><s n="perf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>inti</l><r>huwa<s n="vbser"/><s n="perf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>huwa</l><r>huwa<s n="vbser"/><s n="perf"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>hija</l><r>huwa<s n="vbser"/><s n="perf"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>ahna</l><r>huwa<s n="vbser"/><s n="perf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>intom</l><r>huwa<s n="vbser"/><s n="perf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>huma</l><r>huwa<s n="vbser"/><s n="perf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>miniex</l><r>ma<s n="adv"/><j/>huwa<s n="vbser"/><s n="perf"/><s n="neg"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>mintix</l><r>ma<s n="adv"/><j/>huwa<s n="vbser"/><s n="perf"/><s n="neg"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>mhuwiex</l><r>ma<s n="adv"/><j/>huwa<s n="vbser"/><s n="perf"/><s n="neg"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>mhijiex</l><r>ma<s n="adv"/><j/>huwa<s n="vbser"/><s n="perf"/><s n="neg"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>mahniex</l><r>ma<s n="adv"/><j/>huwa<s n="vbser"/><s n="perf"/><s n="neg"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>mintomx</l><r>ma<s n="adv"/><j/>huwa<s n="vbser"/><s n="perf"/><s n="neg"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>mhumiex</l><r>ma<s n="adv"/><j/>huwa<s n="vbser"/><s n="perf"/><s n="neg"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p><l>inkun</l><r>huwa<s n="vbser"/><s n="imperf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>tkun</l><r>huwa<s n="vbser"/><s n="imperf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>jkun</l><r>huwa<s n="vbser"/><s n="imperf"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>tkun</l><r>huwa<s n="vbser"/><s n="imperf"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>nkunu</l><r>huwa<s n="vbser"/><s n="imperf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>tkunu</l><r>huwa<s n="vbser"/><s n="imperf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>jkunu</l><r>huwa<s n="vbser"/><s n="imperf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>inkunx</l><r>huwa<s n="vbser"/><s n="imperf"/><s n="neg"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>tkunx</l><r>huwa<s n="vbser"/><s n="imperf"/><s n="neg"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>jkunx</l><r>huwa<s n="vbser"/><s n="imperf"/><s n="neg"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>tkunx</l><r>huwa<s n="vbser"/><s n="imperf"/><s n="neg"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>nkunux</l><r>huwa<s n="vbser"/><s n="imperf"/><s n="neg"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>tkunux</l><r>huwa<s n="vbser"/><s n="imperf"/><s n="neg"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>jkunux</l><r>huwa<s n="vbser"/><s n="imperf"/><s n="neg"/><s n="p3"/><s n="pl"/></r></p></e>
+    </pardef>
   </pardefs>
   <section id="main" type="standard">
     <e lm="l" r="RL"><p><l><a/>l</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -520,6 +555,8 @@
     <e lm="u"><i>u</i><par n="u__cnjcoo"/></e>
     <e lm="jew"><i>jew</i><par n="u__cnjcoo"/></e>
 
+    <e lm="huwa"><i></i><par n="/huwa__vbser"/></e>
+
     <e lm="kontra"><i>kontra</i><par n="kontra__pr"/></e>
     <e lm="minn"><i>minn</i><par n="kontra__pr"/></e>
     <e lm="fuq"><i>fuq</i><par n="kontra__pr"/></e>
@@ -561,8 +598,10 @@
 
     <e lm="griż"><i>griż</i><par n="griż__adj"/></e>
     <e lm="fond"><i>fond</i><par n="griż__adj"/></e>
+    <e lm="tond"><i>tond</i><par n="griż__adj"/></e>
     <e lm="frisk"><i>frisk</i><par n="griż__adj"/></e>
 
+    <e lm="dar"><i>d</i><par n="d/ar__n"/></e>
     <e lm="extrej"><i>extrej</i><par n="extrej__n"/></e>
     <e lm="buffu"><i>buff</i><par n="buff/u__n"/></e>
     <e lm="dada"><i>dad</i><par n="dad/a__n"/></e>
