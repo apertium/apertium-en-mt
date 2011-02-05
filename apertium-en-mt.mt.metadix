@@ -27,6 +27,7 @@
     <sdef n="top"/>
     <sdef n="cnjcoo"/>
     <sdef n="pr"/>
+    <sdef n="ct"/>
     <sdef n="rel"/>
     <sdef n="an"/>
     <sdef n="neg"/>
@@ -196,7 +197,7 @@
       <e><p><l>a<prm/></l><r>i<prm/><s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p><l>a<prm/></l><r>i<prm/><s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
-
+   
     <pardef n="Ewropa__np">
       <e><p><l/><r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
@@ -277,6 +278,18 @@
     <pardef n="deżert__n">
       <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>i</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="k/elma__n">
+      <e><p><l>elma</l><r>elma<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>elmiet</l><r>elma<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p><l>liem</l><r>elma<s n="n"/><s n="f"/><s n="ct"/></r></p></e>
+    </pardef>
+
+    <pardef n="tuffi/eħa__n">
+      <e><p><l>eħa</l><r>eħa<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>ħiet</l><r>eħa<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p><l>eħ</l><r>eħa<s n="n"/><s n="f"/><s n="ct"/></r></p></e>
     </pardef>
 
     <pardef n="[ittraduċ]a__vblex">
@@ -633,6 +646,9 @@
     <e lm="eċċitazzjoni"><i>eċċitazzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="ispezzjoni"><i>ispezzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="ċertifikazzjoni"><i>ċertifikazzjoni</i><par n="kwotazzjoni__n"/></e>
+
+    <e lm="kelma"><i>k</i><par n="k/elma__n"/></e>
+    <e lm="tuffieħa"><i>tuffi</i><par n="tuffi/eħa__n"/></e>
 
     <e lm="bużżieqa"><i>b</i><par n="b/użżieqa__n"/></e>
     <e lm="eżempju"><i>eżempj</i><par n="eżempj/u__n"/></e>
