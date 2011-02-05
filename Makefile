@@ -1,3 +1,5 @@
+all: mt-en.automorf.bin
+
 apertium-en-mt.mt.dix: apertium-en-mt.mt.metadix
 	xsltproc buscaPar.xsl apertium-en-mt.mt.metadix | uniq >$$$$tmp1 && \
 	xsltproc $$$$tmp1 apertium-en-mt.mt.metadix > $@ && rm $$$$tmp1
