@@ -504,6 +504,15 @@
     <e lm="per eżempju"><i>per<b/>eżempju</i><par n="illum__adv"/></e>
     <e lm="internazzjonalment"><i>internazzjonalment</i><par n="illum__adv"/></e>
     <e lm="nazzjonalment"><i>nazzjonalment</i><par n="illum__adv"/></e>
+
+    <e lm="totalment"><i>totalment</i><par n="illum__adv"/></e>
+    <e lm="attwalment"><i>attwalment</i><par n="illum__adv"/></e>
+    <e lm="eventwalment"><i>eventwalment</i><par n="illum__adv"/></e>
+    <e lm="probabilment"><i>probabilment</i><par n="illum__adv"/></e>
+    <e lm="xjentifikament"><i>xjentifikament</i><par n="illum__adv"/></e>
+    <e lm="eneralment"><i>eneralment</i><par n="illum__adv"/></e>
+    <e lm="primarjament"><i>primarjament</i><par n="illum__adv"/></e>
+
     <e lm="ma"><i>ma</i><par n="illum__adv"/></e>
 
     <e lm="jekk"><i>jekk</i><par n="jekk__cnjadv"/></e>
@@ -652,6 +661,7 @@
 
     <e lm="bużżieqa"><i>b</i><par n="b/użżieqa__n"/></e>
     <e lm="eżempju"><i>eżempj</i><par n="eżempj/u__n"/></e>
+    <e lm="artiklu"><i>artikl</i><par n="eżempj/u__n"/></e>
     <e lm="eżerċizzju"><i>eżerċizzj</i><par n="eżempj/u__n"/></e>
     <e lm="friġġ"><i>friġ</i><par n="friġ/ġ__n"/></e>
     <e lm="ktieb"><i>k</i><par n="k/tieb__n"/></e>
