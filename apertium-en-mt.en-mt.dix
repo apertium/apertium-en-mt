@@ -667,6 +667,8 @@
     <e><p><l>violation<s n="n"/></l><r>vjolazzjoni<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vote<s n="n"/></l><r>votazzjoni<s n="n"/><s n="f"/></r></p></e>
 
+    <e><p><l>position<s n="n"/></l><r>pożizzjoni<s n="n"/><s n="f"/></r></p></e>
+
 
     <e><p><l>Europe<s n="np"/><s n="top"/></l><r>Ewropa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Malta<s n="np"/><s n="top"/></l><r>Malta<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -736,6 +738,7 @@
     <e><p><l>today<s n="adv"/></l><r>illum<s n="adv"/></r></p></e>
     <e><p><l>for<b/>example<s n="adv"/></l><r>per<b/>eżempju<s n="adv"/></r></p></e>
     <e><p><l>internationally<s n="adv"/></l><r>internazzjonalment<s n="adv"/></r></p></e>
+    <e><p><l>typically<s n="adv"/></l><r>tipikament<s n="adv"/></r></p></e>
     <e><p><l>nationally<s n="adv"/></l><r>nazzjonalment<s n="adv"/></r></p></e>
     <e><p><l>not<s n="adv"/></l><r>ma<s n="adv"/></r></p></e>
     <e><p><l>here<s n="adv"/></l><r>hawn<s n="adv"/></r></p></e>

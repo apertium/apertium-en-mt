@@ -545,6 +545,7 @@
 
     <e lm="aktar tard"><i>aktar<b/>tard</i><par n="illum__adv"/></e>
     <e lm="assolutament"><i>assolutament</i><par n="illum__adv"/></e>
+    <e lm="tipikament"><i>tipikament</i><par n="illum__adv"/></e>
     <e lm="b'attenzjoni"><i>b'attenzjoni</i><par n="illum__adv"/></e>
     <e lm="barra"><i>barra</i><par n="illum__adv"/></e>
     <e lm="bilkemm"><i>bilkemm</i><par n="illum__adv"/></e>
@@ -705,6 +706,7 @@
     <e lm="ispezzjoni"><i>ispezzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="ċertifikazzjoni"><i>ċertifikazzjoni</i><par n="kwotazzjoni__n"/></e>
 
+    <e lm="pożizzjoni"><i>pożizzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="abbrevjazjoni"><i>abbrevjazjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="amministrazzjoni"><i>amministrazzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="applikazzjoni"><i>applikazzjoni</i><par n="kwotazzjoni__n"/></e>
