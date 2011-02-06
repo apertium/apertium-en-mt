@@ -149,6 +149,12 @@
     <pardef n="pikkanti__adj">
       <e><p><l/><r><s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
+    <pardef n="teknoloġi/ku__adj">
+      <e><p><l>ku</l><r>ku<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ka</l><r>ku<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>ċi</l><r>ku<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>ċi</l><r>ku<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
     <pardef n="ġ/did__adj">
       <e><p><l>did</l><r>did<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>dida</l><r>did<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
@@ -185,7 +191,7 @@
       <e><p><l>i</l><r><s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p><l>i</l><r><s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
-    <pardef n="politik/u__adj">
+    <pardef n="letterarj/u__adj">
       <e><p><l>u</l><r>u<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>a</l><r>u<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>i</l><r>u<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
@@ -226,20 +232,18 @@
       <e><p><l>à</l><r>à<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>ajiet</l><r>à<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="dinj/a__n">
+      <e><p><l>a</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>iet</l><r>a<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
     <pardef n="d/ar__n">
       <e><p><l>ar</l><r>ar<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>jar</l><r>ar<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
-    <!-- check gender -->
     <pardef n="friġ/ġ__n">
       <e><p><l>ġ</l><r>ġ<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>is</l><r>ġ<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>ġijiet</l><r>ġ<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-    </pardef>
-    <!-- /check -->
-    <pardef n="mistoqsij/a__n">
-      <e><p><l>a</l><r>a<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l>iet</l><r>a<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="k/tieb__n">
       <e><p><l>tieb</l><r>tieb<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -518,6 +522,8 @@
     <e lm="jekk"><i>jekk</i><par n="jekk__cnjadv"/></e>
     <e lm="kieku"><i>kieku</i><par n="jekk__cnjadv"/></e>
     <e lm="meta"><i>meta</i><par n="jekk__cnjadv"/></e>
+    <e lm="kif ukoll"><i>kif<b/>ukoll</i><par n="jekk__cnjadv"/></e>
+    <e lm="hekk"><i>hekk</i><par n="jekk__cnjadv"/></e>
 
     <e lm="aktar"><i>aktar</i><par n="aktar__preadv"/></e>
     <e lm="ħafna"><i>ħafna</i><par n="aktar__preadv"/></e>
@@ -575,6 +581,10 @@
     <e lm="xjentifikament"><i>xjentifikament</i><par n="illum__adv"/></e>
     <e lm="eneralment"><i>eneralment</i><par n="illum__adv"/></e>
     <e lm="primarjament"><i>primarjament</i><par n="illum__adv"/></e>
+    <e lm="ukoll"><i>ukoll</i><par n="illum__adv"/></e>
+    <e lm="barra minn hekk"><i>barra<b/>minn<b/>hekk</i><par n="illum__adv"/></e>
+    <e lm="aktar minn hekk"><i>aktar<b/>minn<b/>hekk</i><par n="illum__adv"/></e>
+    <e lm="b'hekk"><i>b'hekk</i><par n="illum__adv"/></e>
 
     <e lm="min"><i>min</i><par n="min__prn"/></e>
     <e lm="xiex"><i>xiex</i><par n="min__prn"/></e>
@@ -640,8 +650,11 @@
     <e lm="fond"><i>fond</i><par n="griż__adj"/></e>
     <e lm="tond"><i>tond</i><par n="griż__adj"/></e>
     <e lm="frisk"><i>frisk</i><par n="griż__adj"/></e>
-    <e lm="politiku"><i>politik</i><par n="politik/u__adj"/></e>
-    <e lm="letterarju"><i>letterarj</i><par n="politik/u__adj"/></e>
+    <e lm="politiku"><i>politi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="teknoloġiku"><i>teknoloġi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="letterarju"><i>letterarj</i><par n="letterarj/u__adj"/></e>
+    <e lm="pekunjarju"><i>pekunjarj</i><par n="letterarj/u__adj"/></e>
+    <e lm="sekular"><i>sekular</i><par n="griż__adj"/></e>
 
     <e lm="moviment"><i>moviment</i><par n="moviment__n"/></e>
     <e lm="amministratur"><i>amministratur</i><par n="moviment__n"/></e>
@@ -856,8 +869,8 @@
     <e lm="utilità"><i>utilit</i><par n="oxxenit/à__n"/></e>
     <e lm="vanità"><i>vanit</i><par n="oxxenit/à__n"/></e>
     <e lm="veloċità"><i>veloċit</i><par n="oxxenit/à__n"/></e>
-    <e lm="mistoqsija"><i>mistoqsij</i><par n="mistoqsij/a__n"/></e>
-    <e lm="lumija"><i>lumij</i><par n="mistoqsij/a__n"/></e>
+    <e lm="mistoqsija"><i>mistoqsij</i><par n="dinj/a__n"/></e>
+    <e lm="lumija"><i>lumij</i><par n="dinj/a__n"/></e>
     <e lm="verità"><i>verit</i><par n="oxxenit/à__n"/></e>
     <e lm="maternità"><i>maternit</i><par n="oxxenit/à__n"/></e>
     <e lm="abbiltà"><i>abbilt</i><par n="oxxenit/à__n"/></e>
@@ -1100,6 +1113,7 @@
     <e lm="leave tal-maternità"><i>leave<b/>tal-maternità</i><par n="leave__n"/></e>
     <e lm="leave għall-mard"><i>leave<b/>għall-mard</i><par n="leave__n"/></e>
     <e lm="leave għall-maternità"><i>leave<b/>għall-maternità</i><par n="leave__n"/></e>
+    <e lm="dinja"><i>dinj</i><par n="dinj/a__n"/></e>
 
     <e lm="Ewropa"><i>Ewropa</i><par n="Ewropa__np"/></e>
     <e lm="Unjoni Ewropea"><i>Unjoni<b/>Ewropea</i><par n="Ewropa__np"/></e>
@@ -1128,6 +1142,7 @@
     <e lm="ittraduċa"><par n="[ittraduċ]a__vblex" prm="ittraduċ"/></e>
     <e lm="irreaġixxa"><par n="[ittraduċ]a__vblex" prm="irreaġixx"/></e>
     <e lm="ippromwova"><par n="[ittraduċ]a__vblex" prm="ippromwov"/></e>
+    <e lm="ipprova"><par n="[ittraduċ]a__vblex" prm="ipprov"/></e>
     <e lm="aġġastja"><par n="[aġġastj]a__vblex" prm="aġġastj"/></e>
     <e lm="eżerċita"><par n="[aġġastj]a__vblex" prm="eżerċit"/></e>
 
