@@ -116,6 +116,14 @@
     <e><p><l>category<s n="n"/></l><r>kategorija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>subcategory<s n="n"/></l><r>sottokategorija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>democracy<s n="n"/></l><r>demokrazija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>library<s n="n"/></l><r>librerija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biology<s n="n"/></l><r>bijoloġija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>microbiology<s n="n"/></l><r>mikrobijoloġija<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>geometry<s n="n"/></l><r>ġometrija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>geometry<s n="n"/></l><r>ġeometrija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>geography<s n="n"/></l><r>ġeografija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>zoology<s n="n"/></l><r>żooloġija<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>zoology<s n="n"/></l><r>zooloġija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>artist<s n="n"/></l><r>artista<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>nationalist<s n="n"/></l><r>nazzjonalista<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>guitarist<s n="n"/></l><r>kitarrista<s n="n"/><s n="mf"/></r></p></e>
