@@ -692,12 +692,123 @@
     <e lm="zooloġija"><i>zooloġij</i><par n="dad/a__n"/></e>
     <e lm="sottokategorija"><i>sottokategorij</i><par n="dad/a__n"/></e>
     <e lm="kopertura"><i>kopertur</i><par n="dad/a__n"/></e>
+
     <e lm="kwotazzjoni"><i>kwotazzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="azzjoni"><i>azzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="traduzzjoni"><i>traduzzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="eċċitazzjoni"><i>eċċitazzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="ispezzjoni"><i>ispezzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="ċertifikazzjoni"><i>ċertifikazzjoni</i><par n="kwotazzjoni__n"/></e>
+
+    <e lm="abbrevjazjoni"><i>abbrevjazjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="amministrazzjoni"><i>amministrazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="applikazzjoni"><i>applikazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="approssimazzjoni"><i>approssimazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="attenzjoni"><i>attenzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="azzjoni"><i>azzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="definizjoni"><i>definizjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="definizzjoni"><i>definizzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="delegazzjoni"><i>delegazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="deskrizzjoni"><i>deskrizzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="determinazzjoni"><i>determinazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="devozzjoni"><i>devozzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="direzzjoni"><i>direzzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="diskussjoni"><i>diskussjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="dispersjoni"><i>dispersjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="distinzjoni"><i>distinzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="distribuzjoni"><i>distribuzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="distribuzzjoni"><i>distribuzzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="edizzjoni"><i>edizzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="edukazzjoni"><i>edukazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="ekwazzjoni"><i>ekwazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="elebrazzjoni"><i>elebrazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="elezzjoni"><i>elezzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="enerazzjoni"><i>enerazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="espressjoni"><i>espressjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="estensjoni"><i>estensjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="estinzjoni"><i>estinzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="evoluzzjoni"><i>evoluzzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="federazzjoni"><i>federazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="fondazzjoni"><i>fondazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="formazzjoni"><i>formazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="formulazzjoni"><i>formulazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="fundazzjoni"><i>fundazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="funzjoni"><i>funzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="identifikazzjoni"><i>identifikazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="inazzjoni"><i>inazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="infezzjoni"><i>infezzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="informazzjoni"><i>informazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="integrazzjoni"><i>integrazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="interazzjoni"><i>interazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="interpretazzjoni"><i>interpretazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="introduzzjoni"><i>introduzzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="invenzjoni"><i>invenzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="investigazzjoni"><i>investigazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="ispirazzjoni"><i>ispirazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="istruzzjoni"><i>istruzzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="klassifikazjoni"><i>klassifikazjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="klassifikazzjoni"><i>klassifikazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="koalizzjoni"><i>koalizzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="kollezzjoni"><i>kollezzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="kompetizzjoni"><i>kompetizzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="konfederazzjoni"><i>konfederazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="kontrazzjoni"><i>kontrazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="korruzzjoni"><i>korruzzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="kostellazzjoni"><i>kostellazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="kostituzzjoni"><i>kostituzzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="kostruzzjoni"><i>kostruzzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="kreazzjoni"><i>kreazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="kummissjoni"><i>kummissjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="kundizzjoni"><i>kundizzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="kwalifikazzjoni"><i>kwalifikazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="manifestazzjoni"><i>manifestazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="manipulazzjoni"><i>manipulazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="missjoni"><i>missjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="modifikazzjoni"><i>modifikazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="navigazzjoni"><i>navigazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="okkupazzjoni"><i>okkupazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="operazzjoni"><i>operazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="opinjoni"><i>opinjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="organizzazjoni"><i>organizzazjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="organizzazzjoni"><i>organizzazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="osservazzjoni"><i>osservazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="pollinazzjoni"><i>pollinazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="popolazjoni"><i>popolazjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="popolazzjoni"><i>popolazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="possessjoni"><i>possessjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="preparazzjoni"><i>preparazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="pressjoni"><i>pressjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="prestazzjoni"><i>prestazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="produzzjoni"><i>produzzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="professjoni"><i>professjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="promozzjoni"><i>promozzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="protezzjoni"><i>protezzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="pubblikazzjoni"><i>pubblikazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="purifikazzjoni"><i>purifikazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="rakkomandazzjoni"><i>rakkomandazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="reazzjoni"><i>reazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="relazzjoni"><i>relazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="relegazzjoni"><i>relegazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="respirazzjoni"><i>respirazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="rikostruzzjoni"><i>rikostruzzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="ripetizzjoni"><i>ripetizzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="riproduzzjoni"><i>riproduzzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="rivoluzzjoni"><i>rivoluzzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="rotazzjoni"><i>rotazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="salvazzjoni"><i>salvazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="selezzjoni"><i>selezzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="sitwazzjoni"><i>sitwazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="soluzzjoni"><i>soluzzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="sospensjoni"><i>sospensjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="tradizzjoni"><i>tradizzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="unifikazzjoni"><i>unifikazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="unjoni"><i>unjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="urisdizzjoni"><i>urisdizzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="varjazzjoni"><i>varjazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="vjolazzjoni"><i>vjolazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="votazzjoni"><i>votazzjoni</i><par n="kwotazzjoni__n"/></e>
+
+
     <e lm="kelma"><i>k</i><par n="k/elma__n"/></e>
     <e lm="tuffieħa"><i>tuffi</i><par n="tuffi/eħa__n"/></e>
     <e lm="awtobijografija"><i>awtobijografij</i><par n="dad/a__n"/></e>
