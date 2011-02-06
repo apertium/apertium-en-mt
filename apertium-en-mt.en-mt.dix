@@ -29,6 +29,12 @@
     <sdef n="itg"/>
     <sdef n="pos"/>
     <sdef n="ord"/>
+    <sdef n="np"/>
+    <sdef n="top"/>
+    <sdef n="ant"/>
+    <sdef n="preadv"/>
+    <sdef n="prn"/>
+    <sdef n="sint"/>
   </sdefs>
   <pardefs>
     <pardef n="SP">
@@ -93,6 +99,13 @@
     <e r="LR"><p><l>American<s n="n"/></l><r>Amerikan<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Australian<s n="n"/></l><r>Awstraljan<s n="n"/></r></p></e>
     <e r="LR"><p><l>Australian<s n="n"/></l><r>Awstraljan<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>English<s n="n"/></l><r>Ingliż<s n="n"/></r></p></e>
+    <e r="LR"><p><l>English<s n="n"/></l><r>Ingliż<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>Czech<s n="adj"/></l><r>Ċek<s n="adj"/></r></p></e>
+    <e><p><l>African<s n="adj"/></l><r>Afrikan<s n="adj"/></r></p></e>
+    <e><p><l>American<s n="adj"/></l><r>Amerikan<s n="adj"/></r></p></e>
+    <e><p><l>Australian<s n="adj"/></l><r>Awstraljan<s n="adj"/></r></p></e>
+    <e><p><l>English<s n="adj"/></l><r>Ingliż<s n="adj"/></r></p></e>
     <e><p><l>excitation<s n="n"/></l><r>eċċitazzjoni<s n="n"/><s n="f"/></r></p></e>
     <e srl="chest D" slr="dada D"><p><l>chest<s n="n"/></l><r>dada<s n="n"/><s n="f"/></r></p></e>
     <e srl="breast"><p><l>breast<s n="n"/></l><r>dada<s n="n"/><s n="f"/></r></p></e>
@@ -337,6 +350,9 @@
     <e><p><l>Peru<s n="np"/><s n="top"/></l><r>Peru<s n="np"/><s n="top"/><s n="m"/></r></p></e>
     <e><p><l>Equador<s n="np"/><s n="top"/></l><r>Ekwador<s n="np"/><s n="top"/><s n="m"/></r></p></e>
     <e><p><l>San<b/>Marino<s n="np"/><s n="top"/></l><r>San<b/>Marino<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+
+    <e><p><l>Ċeċilja<s n="np"/><s n="ant"/></l><r>Ċeċilja<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Saint<b/>Cecilia<s n="np"/><s n="ant"/></l><r>Santa<b/>Ċeċilja<s n="np"/><s n="ant"/></r></p></e>
 
     <e><p><l>most<s n="preadv"/></l><r>aktar<s n="preadv"/></r></p></e>
     <e><p><l>very<s n="preadv"/></l><r>ħafna<s n="preadv"/></r></p></e>
