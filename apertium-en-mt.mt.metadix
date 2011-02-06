@@ -39,6 +39,7 @@
     <sdef n="vbser"/>
     <sdef n="vbhaver"/>
     <sdef n="cnt"/>
+    <sdef n="ant"/>
   </sdefs>
   <pardefs>
     <pardef n="aktar__preadv">
@@ -204,6 +205,9 @@
     <pardef n="Ekwador__np">
       <e><p><l/><r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
+    <pardef n="Ċeċilja__np">
+      <e><p><l/><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
     <pardef n="extrej__n">
       <e><p><l/><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>s</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -281,6 +285,12 @@
       <e><p><l>i</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p><l>a</l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>i</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="Ingliż__adj">
+      <e><p><l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r><s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>a</l><r><s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>i</l><r><s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="deżert__n">
       <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -626,7 +636,7 @@
     <e lm="tqil"><i>tq</i><par n="kb/i[r]__adj" prm="l"/></e>
 
     <e lm="pikkanti"><i>pikkanti</i><par n="pikkanti__adj"/></e>
-    <e lm="pikkanti"><i>pikkanti</i><par n="pikkanti__adj"/></e>
+    <e lm="militari"><i>militari</i><par n="pikkanti__adj"/></e>
     <e lm="ġdid"><i>ġ</i><par n="ġ/did__adj"/></e>
     <e lm="aħmar"><i></i><par n="/aħmar__adj"/></e>
     <e lm="aħdar"><i></i><par n="/aħdar__adj"/></e>
@@ -858,9 +868,14 @@
     <e lm="verità"><i>verit</i><par n="oxxenit/à__n"/></e>
     <e lm="deżert"><i>deżert</i><par n="deżert__n"/></e>
     <e lm="Ċek"><i>Ċek</i><par n="Ċek__n"/></e>
+    <e lm="Ingliż"><i>Ingliż</i><par n="Ċek__n"/></e>
     <e lm="Afrikan"><i>Afrikan</i><par n="Ċek__n"/></e>
     <e lm="Amerikan"><i>Amerikan</i><par n="Ċek__n"/></e>
     <e lm="Awstraljan"><i>Awstraljan</i><par n="Ċek__n"/></e>
+    <e lm="Ingliż"><i>Ingliż</i><par n="Ingliż__adj"/></e>
+    <e lm="Afrikan"><i>Afrikan</i><par n="Ingliż__adj"/></e>
+    <e lm="Amerikan"><i>Amerikan</i><par n="Ingliż__adj"/></e>
+    <e lm="Awstraljan"><i>Awstraljan</i><par n="Ingliż__adj"/></e>
     <e lm="sena"><i>s</i><par n="s/ena__n"/></e>
     <e lm="repubblika"><i>republikk</i><par n="dad/a__n"/></e>
 
@@ -883,6 +898,9 @@
     <e lm="Ekwador"><i>Ekwador</i><par n="Ekwador__np"/></e>
     <e lm="Peru"><i>Peru</i><par n="Ekwador__np"/></e>
     <e lm="San Marino"><i>San<b/>Marino</i><par n="Ekwador__np"/></e>
+
+    <e lm="Ċeċilja"><i>Ċeċilja</i><par n="Ċeċilja__np"/></e>
+    <e lm="Santa Ċeċilja"><i>Santa<b/>Ċeċilja</i><par n="Ċeċilja__np"/></e>
 
     <e lm="ittraduċa"><par n="[ittraduċ]a__vblex" prm="ittraduċ"/></e>
     <e lm="irreaġixxa"><par n="[ittraduċ]a__vblex" prm="irreaġixx"/></e>
