@@ -40,8 +40,13 @@
     <sdef n="vbhaver"/>
     <sdef n="cnt"/>
     <sdef n="ant"/>
+    <sdef n="sent"/>
   </sdefs>
   <pardefs>
+    <pardef n="separa">
+      <e r="LR"><re>[.\?;:!]</re><p><l/><r><s n="sent"/></r></p></e>
+      <e r="RL"><p><l><a/></l><r/></p><re>[.\?;:!]</re><p><l/><r><s n="sent"/></r></p></e>
+    </pardef>
     <pardef n="aktar__preadv">
       <e><p><l/><r><s n="preadv"/></r></p></e>
     </pardef>
@@ -1239,6 +1244,7 @@
     <e lm="Ewropa"><i>Ewropa</i><par n="Ewropa__np"/></e>
     <e lm="Unjoni Ewropea"><i>Unjoni<b/>Ewropea</i><par n="Ewropa__np"/></e>
     <e lm="Malta"><i>Malta</i><par n="Ewropa__np"/></e>
+    <e lm="Valletta"><i>Valletta</i><par n="Ewropa__np"/></e>
     <e lm="Venezwela"><i>Venezwela</i><par n="Ewropa__np"/></e>
     <e lm="Amerika"><i>Amerika</i><par n="Ewropa__np"/></e>
     <e lm="Afrika"><i>Afrika</i><par n="Ewropa__np"/></e>
@@ -1291,6 +1297,9 @@
     <e lm="mill" r="LR"><p><l>mi</l><r>minn<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
     <e lm="lill" r="LR"><p><l>li</l><r>lil<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
     <e lm="ħlief għall" r="LR"><p><l>ħlief<b/>għa</l><r>ħlief<b/>għal<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
+  </section>
+  <section id="final" type="inconditional">
+    <e><par n="separa"/></e>
   </section>
 </dictionary>
 
