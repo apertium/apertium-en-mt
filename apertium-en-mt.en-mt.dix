@@ -50,6 +50,7 @@
     <e><p><l>after<s n="pr"/></l><r>wara<s n="pr"/></r></p></e>
     <e><p><l>by<s n="pr"/></l><r>minn<s n="pr"/></r></p></e>
     <e><p><l>about<s n="pr"/></l><r>dwar<s n="pr"/></r></p></e>
+    <e><p><l>to<s n="pr"/></l><r>lil<s n="pr"/></r></p></e>
 
     <e><p><l>this<s n="det"/></l><r>dan<s n="det"/></r></p></e>
     <e><p><l>that<s n="det"/></l><r>dak<s n="det"/></r></p></e>
@@ -281,6 +282,21 @@
     <e><p><l>question<s n="n"/></l><r>mistoqsija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lemon<s n="n"/></l><r>lumija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reality<s n="n"/></l><r>realtà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mechanism<s n="n"/></l><r>mekkaniżmu<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>title<s n="n"/></l><r>titlu<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>marsupial<s n="n"/></l><r>marsupjal<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>continent<s n="n"/></l><r>kontinent<s n="n"/><s n="m"/></r></p></e>
+
+    <e><p><l>Europe<s n="np"/><s n="top"/></l><r>Ewropa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Malta<s n="np"/><s n="top"/></l><r>Malta<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>European<b/>Union<s n="np"/><s n="top"/></l><r>Unjoni<b/>Ewropea<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Venezuela<s n="np"/><s n="top"/></l><r>Venezwela<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Colombia<s n="np"/><s n="top"/></l><r>Kolombja<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>America<s n="np"/><s n="top"/></l><r>Amerika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Africa<s n="np"/><s n="top"/></l><r>Afrika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Argentina<s n="np"/><s n="top"/></l><r>Arġentina<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Peru<s n="np"/><s n="top"/></l><r>Peru<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Equador<s n="np"/><s n="top"/></l><r>Ekwador<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 
     <e><p><l>most<s n="preadv"/></l><r>aktar<s n="preadv"/></r></p></e>
     <e><p><l>very<s n="preadv"/></l><r>ħafna<s n="preadv"/></r></p></e>
@@ -370,6 +386,14 @@
     <e r="LR"><p><l>seldom<s n="adv"/></l><r>rari<s n="adv"/></r></p></e>
     <e><p><l>never<s n="adv"/></l><r>qatt<s n="adv"/></r></p></e>
     <e><p><l>regularly<s n="adv"/></l><r>regolarment<s n="adv"/></r></p></e>
+    <e><p><l>generally<s n="adv"/></l><r>eneralment<s n="adv"/></r></p></e>
+    <e><p><l>scientifically<s n="adv"/></l><r>xjentifikament<s n="adv"/></r></p></e>
+    <e><p><l>currently<s n="adv"/></l><r>attwalment<s n="adv"/></r></p></e>
+    <e><p><l>totally<s n="adv"/></l><r>totalment<s n="adv"/></r></p></e>
+    <e><p><l>eventually<s n="adv"/></l><r>eventwalment<s n="adv"/></r></p></e>
+    <e><p><l>primarily<s n="adv"/></l><r>primarjament<s n="adv"/></r></p></e>
+    <e><p><l>probably<s n="adv"/></l><r>probabilment<s n="adv"/></r></p></e>
+    <e><p><l>subsequently<s n="adv"/></l><r>sussegwentement<s n="adv"/></r></p></e>
 
     <e><p><l>where<s n="adv"/></l><r>fejn<s n="adv"/></r></p></e>
     <e><p><l>why<s n="adv"/></l><r>għaliex<s n="adv"/></r></p></e>
