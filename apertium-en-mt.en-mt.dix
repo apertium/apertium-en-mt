@@ -57,6 +57,7 @@
 
     <e><p><l>if<s n="cnjadv"/></l><r>kieku<s n="cnjadv"/></r></p></e>
     <e><p><l>if<s n="cnjadv"/></l><r>jekk<s n="cnjadv"/></r></p></e>
+    <e><p><l>when<s n="cnjadv"/></l><r>meta<s n="cnjadv"/></r></p></e>
 
     <e><p><l>first<s n="det"/></l><r>ewwel<s n="det"/></r></p></e>
     <e><p><l>second<s n="det"/></l><r>tieni<s n="det"/></r></p></e>
@@ -286,6 +287,9 @@
     <e><p><l>title<s n="n"/></l><r>titlu<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>marsupial<s n="n"/></l><r>marsupjal<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>continent<s n="n"/></l><r>kontinent<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>period<s n="n"/></l><r>perijodu<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>team<s n="n"/></l><r>tim<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>republic<s n="n"/></l><r>repubblika<s n="n"/><s n="m"/></r></p></e>
 
     <e><p><l>Europe<s n="np"/><s n="top"/></l><r>Ewropa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Malta<s n="np"/><s n="top"/></l><r>Malta<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -295,8 +299,11 @@
     <e><p><l>America<s n="np"/><s n="top"/></l><r>Amerika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Africa<s n="np"/><s n="top"/></l><r>Afrika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Argentina<s n="np"/><s n="top"/></l><r>Arġentina<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Slovakia<s n="np"/><s n="top"/></l><r>Slovakkja<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Czech<b/>Republic<s n="np"/><s n="top"/></l><r>Repubblika<b/>Ċeka<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Peru<s n="np"/><s n="top"/></l><r>Peru<s n="np"/><s n="top"/><s n="m"/></r></p></e>
     <e><p><l>Equador<s n="np"/><s n="top"/></l><r>Ekwador<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>San<b/>Marino<s n="np"/><s n="top"/></l><r>San<b/>Marino<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 
     <e><p><l>most<s n="preadv"/></l><r>aktar<s n="preadv"/></r></p></e>
     <e><p><l>very<s n="preadv"/></l><r>ħafna<s n="preadv"/></r></p></e>
