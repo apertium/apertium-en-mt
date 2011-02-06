@@ -84,6 +84,12 @@
     <e r="LR"><p><l>clown<s n="n"/></l><r>buffu<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>Czech<s n="n"/></l><r>Ċek<s n="n"/></r></p></e>
     <e r="LR"><p><l>Czech<s n="n"/></l><r>Ċek<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>African<s n="n"/></l><r>Afrikan<s n="n"/></r></p></e>
+    <e r="LR"><p><l>African<s n="n"/></l><r>Afrikan<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>American<s n="n"/></l><r>Amerikan<s n="n"/></r></p></e>
+    <e r="LR"><p><l>American<s n="n"/></l><r>Amerikan<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>Australian<s n="n"/></l><r>Awstraljan<s n="n"/></r></p></e>
+    <e r="LR"><p><l>Australian<s n="n"/></l><r>Awstraljan<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>excitation<s n="n"/></l><r>eċċitazzjoni<s n="n"/><s n="f"/></r></p></e>
     <e srl="chest D" slr="dada D"><p><l>chest<s n="n"/></l><r>dada<s n="n"/><s n="f"/></r></p></e>
     <e srl="breast"><p><l>breast<s n="n"/></l><r>dada<s n="n"/><s n="f"/></r></p></e>
@@ -134,6 +140,7 @@
     <e><p><l>book<s n="n"/></l><r>ktieb<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>man<s n="n"/></l><r>raġel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>desert<s n="n"/></l><r>deżert<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>administrator<s n="n"/></l><r>amministratur<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bisexuality<s n="n"/></l><r>bisesswalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>heterosexuality<s n="n"/></l><r>eterosesswalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
     <e><p><l>homosexuality<s n="n"/></l><r>omosesswalità<s n="n"/><s n="f"/></r></p><par n="SP"/></e>
