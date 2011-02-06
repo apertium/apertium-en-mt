@@ -258,6 +258,10 @@
       <e><p><l>u</l><r>u<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>i</l><r>u<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="tim__n">
+      <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>ijiet</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    </pardef>
     <pardef n="artist/a__n">
       <e><p><l>a</l><r>u<s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
       <e><p><l>i</l><r>u<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -510,6 +514,7 @@
 
     <e lm="jekk"><i>jekk</i><par n="jekk__cnjadv"/></e>
     <e lm="kieku"><i>kieku</i><par n="jekk__cnjadv"/></e>
+    <e lm="meta"><i>meta</i><par n="jekk__cnjadv"/></e>
 
     <e lm="aktar"><i>aktar</i><par n="aktar__preadv"/></e>
     <e lm="ħafna"><i>ħafna</i><par n="aktar__preadv"/></e>
@@ -639,6 +644,7 @@
     <e lm="amministratur"><i>amministratur</i><par n="moviment__n"/></e>
     <e lm="marsupjal"><i>marsupjal</i><par n="moviment__n"/></e>
     <e lm="kontinent"><i>kontinent</i><par n="moviment__n"/></e>
+    <e lm="tim"><i>tim</i><par n="tim__n"/></e>
     <e lm="dar"><i>d</i><par n="d/ar__n"/></e>
     <e lm="extrej"><i>extrej</i><par n="extrej__n"/></e>
     <e lm="buffu"><i>buff</i><par n="buff/u__n"/></e>
@@ -771,6 +777,8 @@
     <e lm="bużżieqa"><i>b</i><par n="b/użżieqa__n"/></e>
     <e lm="eżempju"><i>eżempj</i><par n="eżempj/u__n"/></e>
     <e lm="artiklu"><i>artikl</i><par n="eżempj/u__n"/></e>
+    <e lm="titlu"><i>titl</i><par n="eżempj/u__n"/></e>
+    <e lm="perijodu"><i>perijod</i><par n="eżempj/u__n"/></e>
     <e lm="eżerċizzju"><i>eżerċizzj</i><par n="eżempj/u__n"/></e>
     <e lm="mekkaniżmu"><i>mekkaniżm</i><par n="eżempj/u__n"/></e>
     <e lm="friġġ"><i>friġ</i><par n="friġ/ġ__n"/></e>
@@ -829,6 +837,7 @@
     <e lm="Amerikan"><i>Amerikan</i><par n="Ċek__n"/></e>
     <e lm="Awstraljan"><i>Awstraljan</i><par n="Ċek__n"/></e>
     <e lm="sena"><i>s</i><par n="s/ena__n"/></e>
+    <e lm="repubblika"><i>republikk</i><par n="dad/a__n"/></e>
 
     <e lm="Ewropa"><i>Ewropa</i><par n="Ewropa__np"/></e>
     <e lm="Unjoni Ewropea"><i>Unjoni<b/>Ewropea</i><par n="Ewropa__np"/></e>
@@ -836,8 +845,11 @@
     <e lm="Venezwela"><i>Venezwela</i><par n="Ewropa__np"/></e>
     <e lm="Amerika"><i>Amerika</i><par n="Ewropa__np"/></e>
     <e lm="Afrika"><i>Afrika</i><par n="Ewropa__np"/></e>
+    <e lm="Repubblika Ċeka"><i>Repubblika<b/>Ċeka</i><par n="Ewropa__np"/></e>
+    <e lm="Slovakkja"><i>Slovakkja</i><par n="Ewropa__np"/></e>
     <e lm="Ekwador"><i>Ekwador</i><par n="Ekwador__np"/></e>
     <e lm="Peru"><i>Peru</i><par n="Ekwador__np"/></e>
+    <e lm="San Marino"><i>San<b/>Marino</i><par n="Ekwador__np"/></e>
 
     <e lm="ittraduċa"><par n="[ittraduċ]a__vblex" prm="ittraduċ"/></e>
     <e lm="irreaġixxa"><par n="[ittraduċ]a__vblex" prm="irreaġixx"/></e>
