@@ -219,6 +219,9 @@
     <pardef n="bisesswalità__n">
       <e><p><l/><r><s n="n"/><s n="f"/><s n="sp"/></r></p></e>
     </pardef>
+    <pardef n="leave__n">
+      <e><p><l/><r><s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+    </pardef>
     <pardef n="oxxenit/à__n">
       <e><p><l>à</l><r>à<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>ajiet</l><r>à<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -866,6 +869,230 @@
     <e lm="mistoqsija"><i>mistoqsij</i><par n="mistoqsij/a__n"/></e>
     <e lm="lumija"><i>lumij</i><par n="mistoqsij/a__n"/></e>
     <e lm="verità"><i>verit</i><par n="oxxenit/à__n"/></e>
+    <e lm="maternità"><i>maternit</i><par n="oxxenit/à__n"/></e>
+    <e lm="abbiltà"><i>abbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="aċċessibbiltà"><i>aċċessibbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="aċċessibilità"><i>aċċessibilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="aċidità"><i>aċidit</i><par n="oxxenit/à__n"/></e>
+    <e lm="adattabbilità"><i>adattabbilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="affinità"><i>affinit</i><par n="oxxenit/à__n"/></e>
+    <e lm="ambigwità"><i>ambigwit</i><par n="oxxenit/à__n"/></e>
+    <e lm="ammissibbiltà"><i>ammissibbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="ammissibilità"><i>ammissibilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="animożità"><i>animożit</i><par n="oxxenit/à__n"/></e>
+    <e lm="annwalità"><i>annwalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="ansjetà"><i>ansjet</i><par n="oxxenit/à__n"/></e>
+    <e lm="antikità"><i>antikit</i><par n="oxxenit/à__n"/></e>
+    <e lm="anzjanità"><i>anzjanit</i><par n="oxxenit/à__n"/></e>
+    <e lm="anzjetà"><i>anzjet</i><par n="oxxenit/à__n"/></e>
+    <e lm="applikabbiltà"><i>applikabbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="applikabilità"><i>applikabilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="assurdità"><i>assurdit</i><par n="oxxenit/à__n"/></e>
+    <e lm="awtentiċità"><i>awtentiċit</i><par n="oxxenit/à__n"/></e>
+    <e lm="ċiviltà"><i>ċivilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="densità"><i>densit</i><par n="oxxenit/à__n"/></e>
+    <e lm="diffikultà"><i>diffikult</i><par n="oxxenit/à__n"/></e>
+    <e lm="dimensjonalità"><i>dimensjonalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="dinjità"><i>dinjit</i><par n="oxxenit/à__n"/></e>
+    <e lm="disponibbiltà"><i>disponibbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="disponibilità"><i>disponibilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="diżabbiltà"><i>diżabbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="diżonestà"><i>diżonest</i><par n="oxxenit/à__n"/></e>
+    <e lm="eċċentriċità"><i>eċċentriċit</i><par n="oxxenit/à__n"/></e>
+    <e lm="effettività"><i>effettivit</i><par n="oxxenit/à__n"/></e>
+    <e lm="ekwità"><i>ekwit</i><par n="oxxenit/à__n"/></e>
+    <e lm="eleġibilità"><i>eleġibilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="elettriċità"><i>elettriċit</i><par n="oxxenit/à__n"/></e>
+    <e lm="eliġibbiltà"><i>eliġibbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="entità"><i>entit</i><par n="oxxenit/à__n"/></e>
+    <e lm="eredità"><i>eredit</i><par n="oxxenit/à__n"/></e>
+    <e lm="esegwibbiltà"><i>esegwibbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="estendibbiltà"><i>estendibbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="estendibilità"><i>estendibilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="estremità"><i>estremit</i><par n="oxxenit/à__n"/></e>
+    <e lm="eternità"><i>eternit</i><par n="oxxenit/à__n"/></e>
+    <e lm="eventwalità"><i>eventwalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="faċilità"><i>faċilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="fakultà"><i>fakult</i><par n="oxxenit/à__n"/></e>
+    <e lm="falsità"><i>falsit</i><par n="oxxenit/à__n"/></e>
+    <e lm="falzità"><i>falzit</i><par n="oxxenit/à__n"/></e>
+    <e lm="familjarità"><i>familjarit</i><par n="oxxenit/à__n"/></e>
+    <e lm="fatalità"><i>fatalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="fertilità"><i>fertilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="fewdalità"><i>fewdalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="finalità"><i>finalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="flessibbiltà"><i>flessibbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="flessibilità"><i>flessibilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="fluwidità"><i>fluwidit</i><par n="oxxenit/à__n"/></e>
+    <e lm="formalità"><i>formalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="fraġilità"><i>fraġilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="fraternità"><i>fraternit</i><par n="oxxenit/à__n"/></e>
+    <e lm="funzjonalità"><i>funzjonalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="ġeneralità"><i>ġeneralit</i><par n="oxxenit/à__n"/></e>
+    <e lm="ġenerożità"><i>ġenerożit</i><par n="oxxenit/à__n"/></e>
+    <e lm="ġenwinità"><i>ġenwinit</i><par n="oxxenit/à__n"/></e>
+    <e lm="illegalità"><i>illegalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="illeġittimità"><i>illeġittimit</i><par n="oxxenit/à__n"/></e>
+    <e lm="immaturità"><i>immaturit</i><par n="oxxenit/à__n"/></e>
+    <e lm="immunità"><i>immunit</i><par n="oxxenit/à__n"/></e>
+    <e lm="imparzjalità"><i>imparzjalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="impossibbiltà"><i>impossibbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="imprattikabbiltà"><i>imprattikabbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="improprjetà"><i>improprjet</i><par n="oxxenit/à__n"/></e>
+    <e lm="imputabbiltà"><i>imputabbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="inabbiltà"><i>inabbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="inammissibbiltà"><i>inammissibbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="indennità"><i>indennit</i><par n="oxxenit/à__n"/></e>
+    <e lm="individwalità"><i>individwalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="inferjorità"><i>inferjorit</i><par n="oxxenit/à__n"/></e>
+    <e lm="infermità"><i>infermit</i><par n="oxxenit/à__n"/></e>
+    <e lm="infinità"><i>infinit</i><par n="oxxenit/à__n"/></e>
+    <e lm="inkapaċità"><i>inkapaċit</i><par n="oxxenit/à__n"/></e>
+    <e lm="insolubbiltà"><i>insolubbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="insolvibbiltà"><i>insolvibbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="insularità"><i>insularit</i><par n="oxxenit/à__n"/></e>
+    <e lm="integralità"><i>integralit</i><par n="oxxenit/à__n"/></e>
+    <e lm="integrità"><i>integrit</i><par n="oxxenit/à__n"/></e>
+    <e lm="interoperabbiltà"><i>interoperabbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="intimità"><i>intimit</i><par n="oxxenit/à__n"/></e>
+    <e lm="invalidità"><i>invalidit</i><par n="oxxenit/à__n"/></e>
+    <e lm="invjolabbiltà"><i>invjolabbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="irregolarità"><i>irregolarit</i><par n="oxxenit/à__n"/></e>
+    <e lm="irresponsabbiltà"><i>irresponsabbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="iskarsità"><i>iskarsit</i><par n="oxxenit/à__n"/></e>
+    <e lm="ispeċjalità"><i>ispeċjalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="istabbilità"><i>istabbilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="kalamità"><i>kalamit</i><par n="oxxenit/à__n"/></e>
+    <e lm="kastità"><i>kastit</i><par n="oxxenit/à__n"/></e>
+    <e lm="kompatibbiltà"><i>kompatibbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="kompetittività"><i>kompetittivit</i><par n="oxxenit/à__n"/></e>
+    <e lm="komproprjetà"><i>komproprjet</i><par n="oxxenit/à__n"/></e>
+    <e lm="konfidenzjalità"><i>konfidenzjalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="konformità"><i>konformit</i><par n="oxxenit/à__n"/></e>
+    <e lm="konsangwinità"><i>konsangwinit</i><par n="oxxenit/à__n"/></e>
+    <e lm="kontabbiltà"><i>kontabbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="kontinwità"><i>kontinwit</i><par n="oxxenit/à__n"/></e>
+    <e lm="konvertibbiltà"><i>konvertibbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="kreattività"><i>kreattivit</i><par n="oxxenit/à__n"/></e>
+    <e lm="kredibbiltà"><i>kredibbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="krudeltà"><i>krudelt</i><par n="oxxenit/à__n"/></e>
+    <e lm="kumdità"><i>kumdit</i><par n="oxxenit/à__n"/></e>
+    <e lm="kunfidenzjalità"><i>kunfidenzjalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="kurżità"><i>kurżit</i><par n="oxxenit/à__n"/></e>
+    <e lm="kwantità"><i>kwantit</i><par n="oxxenit/à__n"/></e>
+    <e lm="lealtà"><i>lealt</i><par n="oxxenit/à__n"/></e>
+    <e lm="legalità"><i>legalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="leġibbiltà"><i>leġibbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="leġittimità"><i>leġittimit</i><par n="oxxenit/à__n"/></e>
+    <e lm="libertà"><i>libert</i><par n="oxxenit/à__n"/></e>
+    <e lm="likwidità"><i>likwidit</i><par n="oxxenit/à__n"/></e>
+    <e lm="lokalità"><i>lokalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="maestà"><i>maest</i><par n="oxxenit/à__n"/></e>
+    <e lm="malleabbiltà"><i>malleabbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="maternità"><i>maternit</i><par n="oxxenit/à__n"/></e>
+    <e lm="maturità"><i>maturit</i><par n="oxxenit/à__n"/></e>
+    <e lm="minorità"><i>minorit</i><par n="oxxenit/à__n"/></e>
+    <e lm="mobbiltà"><i>mobbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="modalità"><i>modalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="modestà"><i>modest</i><par n="oxxenit/à__n"/></e>
+    <e lm="moralità"><i>moralit</i><par n="oxxenit/à__n"/></e>
+    <e lm="muniċipalità"><i>muniċipalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="navigabbiltà"><i>navigabbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="nazzjonalità"><i>nazzjonalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="neċessità"><i>neċessit</i><par n="oxxenit/à__n"/></e>
+    <e lm="negattività"><i>negattivit</i><par n="oxxenit/à__n"/></e>
+    <e lm="negliġibbiltà"><i>negliġibbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="negliġibilità"><i>negliġibilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="newtralità"><i>newtralit</i><par n="oxxenit/à__n"/></e>
+    <e lm="nobbiltà"><i>nobbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="nobilità"><i>nobilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="normalità"><i>normalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="nudità"><i>nudit</i><par n="oxxenit/à__n"/></e>
+    <e lm="oġġettività"><i>oġġettivit</i><par n="oxxenit/à__n"/></e>
+    <e lm="onestà"><i>onest</i><par n="oxxenit/à__n"/></e>
+    <e lm="opaċità"><i>opaċit</i><par n="oxxenit/à__n"/></e>
+    <e lm="oppurtunità"><i>oppurtunit</i><par n="oxxenit/à__n"/></e>
+    <e lm="ospitalità"><i>ospitalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="ostilità"><i>ostilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="parità"><i>parit</i><par n="oxxenit/à__n"/></e>
+    <e lm="partikularità"><i>partikularit</i><par n="oxxenit/à__n"/></e>
+    <e lm="passività"><i>passivit</i><par n="oxxenit/à__n"/></e>
+    <e lm="paternità"><i>paternit</i><par n="oxxenit/à__n"/></e>
+    <e lm="penalità"><i>penalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="personalità"><i>personalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="plastiċità"><i>plastiċit</i><par n="oxxenit/à__n"/></e>
+    <e lm="pompożità"><i>pompożit</i><par n="oxxenit/à__n"/></e>
+    <e lm="portabbiltà"><i>portabbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="portabilità"><i>portabilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="possibbiltà"><i>possibbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="possibilità"><i>possibilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="posterità"><i>posterit</i><par n="oxxenit/à__n"/></e>
+    <e lm="potenzjalità"><i>potenzjalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="prattiċità"><i>prattiċit</i><par n="oxxenit/à__n"/></e>
+    <e lm="prijorità"><i>prijorit</i><par n="oxxenit/à__n"/></e>
+    <e lm="probabbiltà"><i>probabbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="probabilità"><i>probabilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="prodigalità"><i>prodigalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="produttività"><i>produttivit</i><par n="oxxenit/à__n"/></e>
+    <e lm="profanità"><i>profanit</i><par n="oxxenit/à__n"/></e>
+    <e lm="professjonalità"><i>professjonalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="profittabbiltà"><i>profittabbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="profittabilità"><i>profittabilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="promiskwità"><i>promiskwit</i><par n="oxxenit/à__n"/></e>
+    <e lm="propjetà"><i>propjet</i><par n="oxxenit/à__n"/></e>
+    <e lm="proporzjonalità"><i>proporzjonalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="proprjetà"><i>proprjet</i><par n="oxxenit/à__n"/></e>
+    <e lm="prosperità"><i>prosperit</i><par n="oxxenit/à__n"/></e>
+    <e lm="pubbliċità"><i>pubbliċit</i><par n="oxxenit/à__n"/></e>
+    <e lm="pubertà"><i>pubert</i><par n="oxxenit/à__n"/></e>
+    <e lm="puntwalità"><i>puntwalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="purità"><i>purit</i><par n="oxxenit/à__n"/></e>
+    <e lm="radjuattività"><i>radjuattivit</i><par n="oxxenit/à__n"/></e>
+    <e lm="rarità"><i>rarit</i><par n="oxxenit/à__n"/></e>
+    <e lm="reċiproċità"><i>reċiproċit</i><par n="oxxenit/à__n"/></e>
+    <e lm="regolarità"><i>regolarit</i><par n="oxxenit/à__n"/></e>
+    <e lm="relattività"><i>relattivit</i><par n="oxxenit/à__n"/></e>
+    <e lm="reliġjożità"><i>reliġjożit</i><par n="oxxenit/à__n"/></e>
+    <e lm="responsabbiltà"><i>responsabbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="responsabilità"><i>responsabilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="riġidità"><i>riġidit</i><par n="oxxenit/à__n"/></e>
+    <e lm="risponsabbiltà"><i>risponsabbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="rivalità"><i>rivalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="riversibilità"><i>riversibilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="sanità"><i>sanit</i><par n="oxxenit/à__n"/></e>
+    <e lm="sensittività"><i>sensittivit</i><par n="oxxenit/à__n"/></e>
+    <e lm="serjetà"><i>serjet</i><par n="oxxenit/à__n"/></e>
+    <e lm="sesswalità"><i>sesswalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="severità"><i>severit</i><par n="oxxenit/à__n"/></e>
+    <e lm="sigurtà"><i>sigurt</i><par n="oxxenit/à__n"/></e>
+    <e lm="simmetriċità"><i>simmetriċit</i><par n="oxxenit/à__n"/></e>
+    <e lm="skarsità"><i>skarsit</i><par n="oxxenit/à__n"/></e>
+    <e lm="soċjetà"><i>soċjet</i><par n="oxxenit/à__n"/></e>
+    <e lm="solennità"><i>solennit</i><par n="oxxenit/à__n"/></e>
+    <e lm="solidarjetà"><i>solidarjet</i><par n="oxxenit/à__n"/></e>
+    <e lm="solvibbiltà"><i>solvibbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="sovranità"><i>sovranit</i><par n="oxxenit/à__n"/></e>
+    <e lm="speċifiċità"><i>speċifiċit</i><par n="oxxenit/à__n"/></e>
+    <e lm="speċjalità"><i>speċjalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="stabbiltà"><i>stabbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="subnormalità"><i>subnormalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="teknikalità"><i>teknikalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="tonalità"><i>tonalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="totalità"><i>totalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="trasferibbiltà"><i>trasferibbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="trasferibilità"><i>trasferibilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="umanità"><i>umanit</i><par n="oxxenit/à__n"/></e>
+    <e lm="umdità"><i>umdit</i><par n="oxxenit/à__n"/></e>
+    <e lm="uniformità"><i>uniformit</i><par n="oxxenit/à__n"/></e>
+    <e lm="universalità"><i>universalit</i><par n="oxxenit/à__n"/></e>
+    <e lm="validità"><i>validit</i><par n="oxxenit/à__n"/></e>
+    <e lm="varjabbilità"><i>varjabbilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="varjetà"><i>varjet</i><par n="oxxenit/à__n"/></e>
+    <e lm="vijabbilità"><i>vijabbilit</i><par n="oxxenit/à__n"/></e>
+    <e lm="vijabbiltà"><i>vijabbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="viżibbiltà"><i>viżibbilt</i><par n="oxxenit/à__n"/></e>
+    <e lm="volontà"><i>volont</i><par n="oxxenit/à__n"/></e>
+    <e lm="vulnerabbiltà"><i>vulnerabbilt</i><par n="oxxenit/à__n"/></e>
     <e lm="deżert"><i>deżert</i><par n="deżert__n"/></e>
     <e lm="Ċek"><i>Ċek</i><par n="Ċek__n"/></e>
     <e lm="Ingliż"><i>Ingliż</i><par n="Ċek__n"/></e>
@@ -878,6 +1105,11 @@
     <e lm="Awstraljan"><i>Awstraljan</i><par n="Ingliż__adj"/></e>
     <e lm="sena"><i>s</i><par n="s/ena__n"/></e>
     <e lm="repubblika"><i>republikk</i><par n="dad/a__n"/></e>
+    <e lm="leave"><i>leave</i><par n="leave__n"/></e>
+    <e lm="leave tal-mard"><i>leave<b/>tal-mard</i><par n="leave__n"/></e>
+    <e lm="leave tal-maternità"><i>leave<b/>tal-maternità</i><par n="leave__n"/></e>
+    <e lm="leave għall-mard"><i>leave<b/>għall-mard</i><par n="leave__n"/></e>
+    <e lm="leave għall-maternità"><i>leave<b/>għall-maternità</i><par n="leave__n"/></e>
 
     <e lm="Ewropa"><i>Ewropa</i><par n="Ewropa__np"/></e>
     <e lm="Unjoni Ewropea"><i>Unjoni<b/>Ewropea</i><par n="Ewropa__np"/></e>
@@ -895,6 +1127,7 @@
     <e lm="Bulgarija"><i>Bulgarija</i><par n="Ewropa__np"/></e>
     <e lm="Indja"><i>Indja</i><par n="Ewropa__np"/></e>
     <e lm="Ġermanja"><i>Ġermanja</i><par n="Ewropa__np"/></e>
+    <e lm="Ġibiltà"><i>Ġibiltà</i><par n="Ekwador__np"/></e>
     <e lm="Ekwador"><i>Ekwador</i><par n="Ekwador__np"/></e>
     <e lm="Peru"><i>Peru</i><par n="Ekwador__np"/></e>
     <e lm="San Marino"><i>San<b/>Marino</i><par n="Ekwador__np"/></e>
