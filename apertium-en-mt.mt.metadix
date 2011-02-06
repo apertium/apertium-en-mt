@@ -576,6 +576,7 @@
     <e lm="huwa"><i></i><par n="/huwa__vbser"/></e>
 
     <e lm="kontra"><i>kontra</i><par n="kontra__pr"/></e>
+    <e lm="dwar"><i>dwar</i><par n="kontra__pr"/></e>
     <e lm="minn"><i>minn</i><par n="kontra__pr"/></e>
     <e lm="fuq"><i>fuq</i><par n="kontra__pr"/></e>
     <e lm="wara"><i>wara</i><par n="kontra__pr"/></e>
@@ -648,6 +649,34 @@
     <e lm="eċċitazzjoni"><i>eċċitazzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="ispezzjoni"><i>ispezzjoni</i><par n="kwotazzjoni__n"/></e>
     <e lm="ċertifikazzjoni"><i>ċertifikazzjoni</i><par n="kwotazzjoni__n"/></e>
+    <e lm="kelma"><i>k</i><par n="k/elma__n"/></e>
+    <e lm="tuffieħa"><i>tuffi</i><par n="tuffi/eħa__n"/></e>
+    <e lm="awtobijografija"><i>awtobijografij</i><par n="dad/a__n"/></e>
+    <e lm="bijografija"><i>bijografij</i><par n="dad/a__n"/></e>
+    <e lm="bioloġija"><i>bioloġij</i><par n="dad/a__n"/></e>
+    <e lm="demografija"><i>demografij</i><par n="dad/a__n"/></e>
+    <e lm="dermatoloġija"><i>dermatoloġij</i><par n="dad/a__n"/></e>
+    <e lm="dinastija"><i>dinastij</i><par n="dad/a__n"/></e>
+    <e lm="diplomazija"><i>diplomazij</i><par n="dad/a__n"/></e>
+    <e lm="ekoloġija"><i>ekoloġij</i><par n="dad/a__n"/></e>
+    <e lm="ekonomija"><i>ekonomij</i><par n="dad/a__n"/></e>
+    <e lm="eleġija"><i>eleġij</i><par n="dad/a__n"/></e>
+    <e lm="enerġija"><i>enerġij</i><par n="dad/a__n"/></e>
+    <e lm="entomoloġija"><i>entomoloġij</i><par n="dad/a__n"/></e>
+    <e lm="etnografija"><i>etnografij</i><par n="dad/a__n"/></e>
+    <e lm="etoloġija"><i>etoloġij</i><par n="dad/a__n"/></e>
+    <e lm="ewkaristija"><i>ewkaristij</i><par n="dad/a__n"/></e>
+    <e lm="fantasija"><i>fantasij</i><par n="dad/a__n"/></e>
+    <e lm="fenomenoloġija"><i>fenomenoloġij</i><par n="dad/a__n"/></e>
+    <e lm="filatelija"><i>filatelij</i><par n="dad/a__n"/></e>
+    <e lm="filosofija"><i>filosofij</i><par n="dad/a__n"/></e>
+    <e lm="fonoloġija"><i>fonoloġij</i><par n="dad/a__n"/></e>
+    <e lm="glorija"><i>glorij</i><par n="dad/a__n"/></e>
+    <e lm="industrija"><i>industrij</i><par n="dad/a__n"/></e>
+    <e lm="inġinerija"><i>inġinerij</i><par n="dad/a__n"/></e>
+    <e lm="kosmografija"><i>kosmografij</i><par n="dad/a__n"/></e>
+    <e lm="kronoloġija"><i>kronoloġij</i><par n="dad/a__n"/></e>
+    <e lm="kvalifikacija"><i>kvalifikacij</i><par n="dad/a__n"/></e>
 
     <e lm="bużżieqa"><i>b</i><par n="b/użżieqa__n"/></e>
     <e lm="eżempju"><i>eżempj</i><par n="eżempj/u__n"/></e>

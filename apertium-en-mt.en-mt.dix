@@ -49,6 +49,7 @@
     <e><p><l>till<s n="pr"/></l><r>sa<s n="pr"/></r></p></e>
     <e><p><l>after<s n="pr"/></l><r>wara<s n="pr"/></r></p></e>
     <e><p><l>by<s n="pr"/></l><r>minn<s n="pr"/></r></p></e>
+    <e><p><l>about<s n="pr"/></l><r>dwar<s n="pr"/></r></p></e>
 
     <e><p><l>this<s n="det"/></l><r>dan<s n="det"/></r></p></e>
     <e><p><l>that<s n="det"/></l><r>dak<s n="det"/></r></p></e>
@@ -124,6 +125,32 @@
     <e><p><l>geography<s n="n"/></l><r>ġeografija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>zoology<s n="n"/></l><r>żooloġija<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>zoology<s n="n"/></l><r>zooloġija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>autobiography<s n="n"/></l><r>awtobijografija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biography<s n="n"/></l><r>bijografija<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>biology<s n="n"/></l><r>bioloġija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>demographic<s n="n"/></l><r>demografija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dermatology<s n="n"/></l><r>dermatoloġija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dynasty<s n="n"/></l><r>dinastija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>diplomacy<s n="n"/></l><r>diplomazija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ecology<s n="n"/></l><r>ekoloġija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>economy<s n="n"/></l><r>ekonomija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>elegy<s n="n"/></l><r>eleġija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>energy<s n="n"/></l><r>enerġija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>entomology<s n="n"/></l><r>entomoloġija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ethnography<s n="n"/></l><r>etnografija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ethology<s n="n"/></l><r>etoloġija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>eucharist<s n="n"/></l><r>ewkaristija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fantasy<s n="n"/></l><r>fantasija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>phenomenology<s n="n"/></l><r>fenomenoloġija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>philately<s n="n"/></l><r>filatelija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>philosophy<s n="n"/></l><r>filosofija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>phonology<s n="n"/></l><r>fonoloġija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>glory<s n="n"/></l><r>glorija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>industry<s n="n"/></l><r>industrija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>engineering<s n="n"/></l><r>inġinerija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cosmography<s n="n"/></l><r>kosmografija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>chronology<s n="n"/></l><r>kronoloġija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>qualification<s n="n"/></l><r>kvalifikacija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>artist<s n="n"/></l><r>artista<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>nationalist<s n="n"/></l><r>nazzjonalista<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>guitarist<s n="n"/></l><r>kitarrista<s n="n"/><s n="mf"/></r></p></e>
