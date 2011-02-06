@@ -296,6 +296,7 @@
     <e><p><l>question<s n="n"/></l><r>mistoqsija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lemon<s n="n"/></l><r>lumija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reality<s n="n"/></l><r>realtà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>maternity<s n="n"/></l><r>maternità<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mechanism<s n="n"/></l><r>mekkaniżmu<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>title<s n="n"/></l><r>titlu<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>marsupial<s n="n"/></l><r>marsupjal<s n="n"/><s n="m"/></r></p></e>
@@ -328,6 +329,234 @@
     <e><p><l>tourism<s n="n"/></l><r>turiżmu<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vandalism<s n="n"/></l><r>vandaliżmu<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>scepticism<s n="n"/></l><r>xettiċiżmu<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>leave<s n="n"/></l><r>leave<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>sick<b/>leave<s n="n"/></l><r>leave<b/>tal-mard<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>maternity<b/>leave<s n="n"/></l><r>leave<b/>tal-maternità<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e r="RL"><p><l>sick<b/>leave<s n="n"/></l><r>leave<b/>għall-mard<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e r="RL"><p><l>maternity<b/>leave<s n="n"/></l><r>leave<b/>għall-maternità<s n="n"/><s n="m"/></r></p><par n="SP"/></e>
+    <e><p><l>ability<s n="n"/></l><r>abbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>accessibility<s n="n"/></l><r>aċċessibbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>accessibility<s n="n"/></l><r>aċċessibilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>acidity<s n="n"/></l><r>aċidità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>adaptability<s n="n"/></l><r>adattabbilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>affinity<s n="n"/></l><r>affinità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ambiguity<s n="n"/></l><r>ambigwità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>admissibility<s n="n"/></l><r>ammissibbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>admissibility<s n="n"/></l><r>ammissibilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>animosity<s n="n"/></l><r>animożità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>annuity<s n="n"/></l><r>annwalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>anxiety<s n="n"/></l><r>ansjetà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>antiquity<s n="n"/></l><r>antikità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ageing<s n="n"/></l><r>anzjanità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>anxiety<s n="n"/></l><r>anzjetà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>applicability<s n="n"/></l><r>applikabbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>applicability<s n="n"/></l><r>applikabilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>absurdity<s n="n"/></l><r>assurdità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>authenticity<s n="n"/></l><r>awtentiċità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>civilization<s n="n"/></l><r>ċiviltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>density<s n="n"/></l><r>densità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>difficulty<s n="n"/></l><r>diffikultà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dimensionality<s n="n"/></l><r>dimensjonalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dignity<s n="n"/></l><r>dinjità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>availability<s n="n"/></l><r>disponibbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>availability<s n="n"/></l><r>disponibilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>disability<s n="n"/></l><r>diżabbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dishonesty<s n="n"/></l><r>diżonestà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>eccentricity<s n="n"/></l><r>eċċentriċità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>effectiveness<s n="n"/></l><r>effettività<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>equity<s n="n"/></l><r>ekwità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>eligibility<s n="n"/></l><r>eleġibilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>electricity<s n="n"/></l><r>elettriċità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>eligibility<s n="n"/></l><r>eliġibbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>entity<s n="n"/></l><r>entità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>heredity<s n="n"/></l><r>eredità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>enforceability<s n="n"/></l><r>esegwibbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>extensibility<s n="n"/></l><r>estendibbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>extensibility<s n="n"/></l><r>estendibilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>extremity<s n="n"/></l><r>estremità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>eternity<s n="n"/></l><r>eternità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>event<s n="n"/></l><r>eventwalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>facility<s n="n"/></l><r>faċilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>faculty<s n="n"/></l><r>fakultà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>deception<s n="n"/></l><r>falsità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>deception<s n="n"/></l><r>falzità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>familiarity<s n="n"/></l><r>familjarità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fatality<s n="n"/></l><r>fatalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fertility<s n="n"/></l><r>fertilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>feudality<s n="n"/></l><r>fewdalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>finality<s n="n"/></l><r>finalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>flexibility<s n="n"/></l><r>flessibbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>flexibility<s n="n"/></l><r>flessibilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fluidity<s n="n"/></l><r>fluwidità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>formality<s n="n"/></l><r>formalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fragility<s n="n"/></l><r>fraġilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fraternity<s n="n"/></l><r>fraternità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>functionality<s n="n"/></l><r>funzjonalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>generality<s n="n"/></l><r>ġeneralità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>generosity<s n="n"/></l><r>ġenerożità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>genuineness<s n="n"/></l><r>ġenwinità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>illegality<s n="n"/></l><r>illegalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>illegitimacy<s n="n"/></l><r>illeġittimità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>immaturity<s n="n"/></l><r>immaturità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>immunity<s n="n"/></l><r>immunità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>impartiality<s n="n"/></l><r>imparzjalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>impossibility<s n="n"/></l><r>impossibbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>impracticability<s n="n"/></l><r>imprattikabbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>impropriety<s n="n"/></l><r>improprjetà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>imputation<s n="n"/></l><r>imputabbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>inability<s n="n"/></l><r>inabbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>inadmissibility<s n="n"/></l><r>inammissibbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>indemnity<s n="n"/></l><r>indennità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>individuality<s n="n"/></l><r>individwalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>inferiority<s n="n"/></l><r>inferjorità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>infirmity<s n="n"/></l><r>infermità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>infinity<s n="n"/></l><r>infinità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>incapacity<s n="n"/></l><r>inkapaċità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>insolubility<s n="n"/></l><r>insolubbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>insolvency<s n="n"/></l><r>insolvibbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>insularity<s n="n"/></l><r>insularità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>integrality<s n="n"/></l><r>integralità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>integrity<s n="n"/></l><r>integrità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>interoperability<s n="n"/></l><r>interoperabbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>intimacy<s n="n"/></l><r>intimità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>invalidity<s n="n"/></l><r>invalidità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>inviolability<s n="n"/></l><r>invjolabbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>irregularity<s n="n"/></l><r>irregolarità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>irresponsibility<s n="n"/></l><r>irresponsabbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>scarcity<s n="n"/></l><r>iskarsità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>specialty<s n="n"/></l><r>ispeċjalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>stability<s n="n"/></l><r>istabbilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>calamity<s n="n"/></l><r>kalamità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>chastity<s n="n"/></l><r>kastità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>compatibility<s n="n"/></l><r>kompatibbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>competitiveness<s n="n"/></l><r>kompetittività<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ownership<s n="n"/></l><r>komproprjetà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>confidentiality<s n="n"/></l><r>konfidenzjalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>conformity<s n="n"/></l><r>konformità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>consanguinity<s n="n"/></l><r>konsangwinità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>accounting<s n="n"/></l><r>kontabbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>continuity<s n="n"/></l><r>kontinwità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>convertibility<s n="n"/></l><r>konvertibbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>creativity<s n="n"/></l><r>kreattività<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>credibility<s n="n"/></l><r>kredibbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>cruelty<s n="n"/></l><r>krudeltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>comfort<s n="n"/></l><r>kumdità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>confidentiality<s n="n"/></l><r>kunfidenzjalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>curiosity<s n="n"/></l><r>kurżità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>quantity<s n="n"/></l><r>kwantità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>loyalty<s n="n"/></l><r>lealtà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>legality<s n="n"/></l><r>legalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>legibility<s n="n"/></l><r>leġibbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>legitimacy<s n="n"/></l><r>leġittimità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>freedom<s n="n"/></l><r>libertà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>liquidity<s n="n"/></l><r>likwidità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>location<s n="n"/></l><r>lokalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>majesty<s n="n"/></l><r>maestà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>malleability<s n="n"/></l><r>malleabbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>maternity<s n="n"/></l><r>maternità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>maturity<s n="n"/></l><r>maturità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>minority<s n="n"/></l><r>minorità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mobility<s n="n"/></l><r>mobbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>modality<s n="n"/></l><r>modalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>modesty<s n="n"/></l><r>modestà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>morality<s n="n"/></l><r>moralità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>municipality<s n="n"/></l><r>muniċipalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>navigability<s n="n"/></l><r>navigabbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nationality<s n="n"/></l><r>nazzjonalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>necessity<s n="n"/></l><r>neċessità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>negativity<s n="n"/></l><r>negattività<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>negligibility<s n="n"/></l><r>negliġibbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>negligibility<s n="n"/></l><r>negliġibilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>neutrality<s n="n"/></l><r>newtralità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nobility<s n="n"/></l><r>nobbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nobility<s n="n"/></l><r>nobilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>normality<s n="n"/></l><r>normalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nudity<s n="n"/></l><r>nudità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>objectivity<s n="n"/></l><r>oġġettività<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>honesty<s n="n"/></l><r>onestà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>opacity<s n="n"/></l><r>opaċità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>opportunity<s n="n"/></l><r>oppurtunità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hospitality<s n="n"/></l><r>ospitalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hostility<s n="n"/></l><r>ostilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>parity<s n="n"/></l><r>parità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>particularity<s n="n"/></l><r>partikularità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>passivity<s n="n"/></l><r>passività<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>paternity<s n="n"/></l><r>paternità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>penalty<s n="n"/></l><r>penalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>personality<s n="n"/></l><r>personalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>plasticity<s n="n"/></l><r>plastiċità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pomposity<s n="n"/></l><r>pompożità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>portability<s n="n"/></l><r>portabbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>portability<s n="n"/></l><r>portabilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>possibility<s n="n"/></l><r>possibbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>possibility<s n="n"/></l><r>possibilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>posterity<s n="n"/></l><r>posterità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>potential<s n="n"/></l><r>potenzjalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>practicality<s n="n"/></l><r>prattiċità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>priority<s n="n"/></l><r>prijorità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>probability<s n="n"/></l><r>probabbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>probability<s n="n"/></l><r>probabilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prodigality<s n="n"/></l><r>prodigalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>productivity<s n="n"/></l><r>produttività<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>profanity<s n="n"/></l><r>profanità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>professionalism<s n="n"/></l><r>professjonalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>profitability<s n="n"/></l><r>profittabbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>profitability<s n="n"/></l><r>profittabilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>promiscuity<s n="n"/></l><r>promiskwità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>property<s n="n"/></l><r>propjetà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>proportionality<s n="n"/></l><r>proporzjonalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>property<s n="n"/></l><r>proprjetà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prosperity<s n="n"/></l><r>prosperità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>publicity<s n="n"/></l><r>pubbliċità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>puberty<s n="n"/></l><r>pubertà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>punctuality<s n="n"/></l><r>puntwalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>purity<s n="n"/></l><r>purità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>radioactivity<s n="n"/></l><r>radjuattività<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rarity<s n="n"/></l><r>rarità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reciprocity<s n="n"/></l><r>reċiproċità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>regularity<s n="n"/></l><r>regolarità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>relativity<s n="n"/></l><r>relattività<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>religiosity<s n="n"/></l><r>reliġjożità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>responsibility<s n="n"/></l><r>responsabbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>responsibility<s n="n"/></l><r>responsabilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rigidity<s n="n"/></l><r>riġidità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>responsibility<s n="n"/></l><r>risponsabbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rivalry<s n="n"/></l><r>rivalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>reversibility<s n="n"/></l><r>riversibilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>health<s n="n"/></l><r>sanità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sensitivity<s n="n"/></l><r>sensittività<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>seriously<s n="n"/></l><r>serjetà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sexuality<s n="n"/></l><r>sesswalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>severity<s n="n"/></l><r>severità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>security<s n="n"/></l><r>sigurtà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>symmetricity<s n="n"/></l><r>simmetriċità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>scarcity<s n="n"/></l><r>skarsità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>society<s n="n"/></l><r>soċjetà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>solemnity<s n="n"/></l><r>solennità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>solidarity<s n="n"/></l><r>solidarjetà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>solvency<s n="n"/></l><r>solvibbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sovereignty<s n="n"/></l><r>sovranità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>specificity<s n="n"/></l><r>speċifiċità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>specialty<s n="n"/></l><r>speċjalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>stability<s n="n"/></l><r>stabbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>subnormality<s n="n"/></l><r>subnormalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>technicality<s n="n"/></l><r>teknikalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>tonality<s n="n"/></l><r>tonalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>totality<s n="n"/></l><r>totalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>transferability<s n="n"/></l><r>trasferibbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>transferability<s n="n"/></l><r>trasferibilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>humanity<s n="n"/></l><r>umanità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>humidity<s n="n"/></l><r>umdità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>uniformity<s n="n"/></l><r>uniformità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>universality<s n="n"/></l><r>universalità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>validity<s n="n"/></l><r>validità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>variability<s n="n"/></l><r>varjabbilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>variety<s n="n"/></l><r>varjetà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>viability<s n="n"/></l><r>vijabbilità<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>viability<s n="n"/></l><r>vijabbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>visibility<s n="n"/></l><r>viżibbiltà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>will<s n="n"/></l><r>volontà<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vulnerability<s n="n"/></l><r>vulnerabbiltà<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>Europe<s n="np"/><s n="top"/></l><r>Ewropa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Malta<s n="np"/><s n="top"/></l><r>Malta<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -347,6 +576,7 @@
     <e><p><l>India<s n="np"/><s n="top"/></l><r>Indja<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Germany<s n="np"/><s n="top"/></l><r>Ġermanja<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Czech<b/>Republic<s n="np"/><s n="top"/></l><r>Repubblika<b/>Ċeka<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Gibraltar<s n="np"/><s n="top"/></l><r>Ġibiltà<s n="np"/><s n="top"/><s n="m"/></r></p></e>
     <e><p><l>Peru<s n="np"/><s n="top"/></l><r>Peru<s n="np"/><s n="top"/><s n="m"/></r></p></e>
     <e><p><l>Equador<s n="np"/><s n="top"/></l><r>Ekwador<s n="np"/><s n="top"/><s n="m"/></r></p></e>
     <e><p><l>San<b/>Marino<s n="np"/><s n="top"/></l><r>San<b/>Marino<s n="np"/><s n="top"/><s n="m"/></r></p></e>
