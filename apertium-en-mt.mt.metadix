@@ -201,6 +201,9 @@
     <pardef n="Ewropa__np">
       <e><p><l/><r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
+    <pardef n="Ekwador__np">
+      <e><p><l/><r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
     <pardef n="extrej__n">
       <e><p><l/><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>s</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -502,6 +505,7 @@
     <e lm="per eżempju"><i>per<b/>eżempju</i><par n="illum__adv"/></e>
     <e lm="internazzjonalment"><i>internazzjonalment</i><par n="illum__adv"/></e>
     <e lm="nazzjonalment"><i>nazzjonalment</i><par n="illum__adv"/></e>
+    <e lm="sussegwentement"><i>sussegwentement</i><par n="illum__adv"/></e>
     <e lm="ma"><i>ma</i><par n="illum__adv"/></e>
 
     <e lm="jekk"><i>jekk</i><par n="jekk__cnjadv"/></e>
@@ -591,6 +595,7 @@
     <e lm="fuq"><i>fuq</i><par n="kontra__pr"/></e>
     <e lm="wara"><i>wara</i><par n="kontra__pr"/></e>
     <e lm="minn"><i>minn</i><par n="kontra__pr"/></e>
+    <e lm="lil"><i>lil</i><par n="kontra__pr"/></e>
     <e lm="ta'" r="RL"><p><l><a/>ta'</l><r>ta'</r></p><par n="kontra__pr"/></e>
     <e lm="fi" r="LR"><i>fi</i><par n="kontra__pr"/></e>
     <e lm="fi" r="RL"><p><l><a/>fi</l><r>fi</r></p><par n="kontra__pr"/></e>
@@ -632,6 +637,8 @@
 
     <e lm="moviment"><i>moviment</i><par n="moviment__n"/></e>
     <e lm="amministratur"><i>amministratur</i><par n="moviment__n"/></e>
+    <e lm="marsupjal"><i>marsupjal</i><par n="moviment__n"/></e>
+    <e lm="kontinent"><i>kontinent</i><par n="moviment__n"/></e>
     <e lm="dar"><i>d</i><par n="d/ar__n"/></e>
     <e lm="extrej"><i>extrej</i><par n="extrej__n"/></e>
     <e lm="buffu"><i>buff</i><par n="buff/u__n"/></e>
@@ -765,6 +772,7 @@
     <e lm="eżempju"><i>eżempj</i><par n="eżempj/u__n"/></e>
     <e lm="artiklu"><i>artikl</i><par n="eżempj/u__n"/></e>
     <e lm="eżerċizzju"><i>eżerċizzj</i><par n="eżempj/u__n"/></e>
+    <e lm="mekkaniżmu"><i>mekkaniżm</i><par n="eżempj/u__n"/></e>
     <e lm="friġġ"><i>friġ</i><par n="friġ/ġ__n"/></e>
     <e lm="ktieb"><i>k</i><par n="k/tieb__n"/></e>
     <e lm="raġel"><i></i><par n="/raġel__n"/></e>
@@ -822,6 +830,15 @@
     <e lm="Awstraljan"><i>Awstraljan</i><par n="Ċek__n"/></e>
     <e lm="sena"><i>s</i><par n="s/ena__n"/></e>
 
+    <e lm="Ewropa"><i>Ewropa</i><par n="Ewropa__np"/></e>
+    <e lm="Unjoni Ewropea"><i>Unjoni<b/>Ewropea</i><par n="Ewropa__np"/></e>
+    <e lm="Malta"><i>Malta</i><par n="Ewropa__np"/></e>
+    <e lm="Venezwela"><i>Venezwela</i><par n="Ewropa__np"/></e>
+    <e lm="Amerika"><i>Amerika</i><par n="Ewropa__np"/></e>
+    <e lm="Afrika"><i>Afrika</i><par n="Ewropa__np"/></e>
+    <e lm="Ekwador"><i>Ekwador</i><par n="Ekwador__np"/></e>
+    <e lm="Peru"><i>Peru</i><par n="Ekwador__np"/></e>
+
     <e lm="ittraduċa"><par n="[ittraduċ]a__vblex" prm="ittraduċ"/></e>
     <e lm="irreaġixxa"><par n="[ittraduċ]a__vblex" prm="irreaġixx"/></e>
     <e lm="ippromwova"><par n="[ittraduċ]a__vblex" prm="ippromwov"/></e>
@@ -839,6 +856,8 @@
     <e lm="bi" r="LR"><p><l>b'</l><r>bi</r></p><par n="kontra__pr"/></e>
     <e lm="ta'" r="LR"><i>ta'</i><par n="kontra__pr"/></e>
     <e lm="ma'" r="LR"><i>ma'</i><par n="kontra__pr"/></e>
+    <e lm="t-" r="LR"><p><l>t-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="s-" r="LR"><p><l>s-</l><r>l<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></r></p></e>
 
     <e lm="l" r="LR"><p><l></l><r></r></p><par n="l-__det"/></e>
     <e lm="fil" r="LR"><p><l>f</l><r>fi<s n="pr"/><j/></r></p><par n="l-__det"/></e>
@@ -847,6 +866,8 @@
     <e lm="mal" r="LR"><p><l>ma</l><r>ma'<s n="pr"/><j/></r></p><par n="tal-__pr+det"/></e>
     <e lm="sal" r="LR"><p><l>sa</l><r>sa<s n="pr"/><j/></r></p><par n="tal-__pr+det"/></e>
     <e lm="għall" r="LR"><p><l>għa</l><r>għal<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
+    <e lm="mill" r="LR"><p><l>mi</l><r>minn<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
+    <e lm="lill" r="LR"><p><l>li</l><r>lil<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
     <e lm="ħlief għall" r="LR"><p><l>ħlief<b/>għa</l><r>ħlief<b/>għal<s n="pr"/><j/></r></p><par n="għall-__pr+det"/></e>
   </section>
 </dictionary>
