@@ -38,6 +38,7 @@
     <sdef n="cnjadv"/>
     <sdef n="vbser"/>
     <sdef n="vbhaver"/>
+    <sdef n="cnt"/>
   </sdefs>
   <pardefs>
     <pardef n="aktar__preadv">
@@ -545,6 +546,13 @@
     <e lm="verament"><i>verament</i><par n="illum__adv"/></e>
     <e lm="ħafna"><i>ħafna</i><par n="illum__adv"/></e>
     <e lm="regolarment"><i>regolarment</i><par n="illum__adv"/></e>
+    <e lm="totalment"><i>totalment</i><par n="illum__adv"/></e>
+    <e lm="attwalment"><i>attwalment</i><par n="illum__adv"/></e>
+    <e lm="eventwalment"><i>eventwalment</i><par n="illum__adv"/></e>
+    <e lm="probabilment"><i>probabilment</i><par n="illum__adv"/></e>
+    <e lm="xjentifikament"><i>xjentifikament</i><par n="illum__adv"/></e>
+    <e lm="eneralment"><i>eneralment</i><par n="illum__adv"/></e>
+    <e lm="primarjament"><i>primarjament</i><par n="illum__adv"/></e>
 
     <e lm="min"><i>min</i><par n="min__prn"/></e>
     <e lm="xiex"><i>xiex</i><par n="min__prn"/></e>
@@ -572,13 +580,11 @@
     <e lm="fuq"><i>fuq</i><par n="kontra__pr"/></e>
     <e lm="wara"><i>wara</i><par n="kontra__pr"/></e>
     <e lm="minn"><i>minn</i><par n="kontra__pr"/></e>
-    <e lm="ta'" r="LR"><i>ta'</i><par n="kontra__pr"/></e>
     <e lm="ta'" r="RL"><p><l><a/>ta'</l><r>ta'</r></p><par n="kontra__pr"/></e>
     <e lm="fi" r="LR"><i>fi</i><par n="kontra__pr"/></e>
     <e lm="fi" r="RL"><p><l><a/>fi</l><r>fi</r></p><par n="kontra__pr"/></e>
     <e lm="bi" r="LR"><i>bi</i><par n="kontra__pr"/></e>
     <e lm="bi" r="RL"><p><l><a/>bi</l><r>bi</r></p><par n="kontra__pr"/></e>
-    <e lm="ma'" r="LR"><i>ma'</i><par n="kontra__pr"/></e>
     <e lm="ma'" r="RL"><p><l><a/>ma'</l><r>ma'</r></p><par n="kontra__pr"/></e>
     <e lm="għal" r="LR"><i>għal</i><par n="kontra__pr"/></e>
     <e lm="għal" r="RL"><p><l><a/>għal</l><r>għal</r></p><par n="kontra__pr"/></e>
@@ -614,6 +620,7 @@
     <e lm="letterarju"><i>letterarj</i><par n="politik/u__adj"/></e>
 
     <e lm="moviment"><i>moviment</i><par n="moviment__n"/></e>
+    <e lm="amministratur"><i>amministratur</i><par n="moviment__n"/></e>
     <e lm="dar"><i>d</i><par n="d/ar__n"/></e>
     <e lm="extrej"><i>extrej</i><par n="extrej__n"/></e>
     <e lm="buffu"><i>buff</i><par n="buff/u__n"/></e>
@@ -689,6 +696,9 @@
     <e lm="verità"><i>verit</i><par n="oxxenit/à__n"/></e>
     <e lm="deżert"><i>deżert</i><par n="deżert__n"/></e>
     <e lm="Ċek"><i>Ċek</i><par n="Ċek__n"/></e>
+    <e lm="Afrikan"><i>Afrikan</i><par n="Ċek__n"/></e>
+    <e lm="Amerikan"><i>Amerikan</i><par n="Ċek__n"/></e>
+    <e lm="Awstraljan"><i>Awstraljan</i><par n="Ċek__n"/></e>
     <e lm="sena"><i>s</i><par n="s/ena__n"/></e>
 
     <e lm="ittraduċa"><par n="[ittraduċ]a__vblex" prm="ittraduċ"/></e>
@@ -706,6 +716,8 @@
     <e lm="ta'" r="LR"><p><l>t'</l><r>ta'</r></p><par n="kontra__pr"/></e>
     <e lm="sa" r="LR"><p><l>s'</l><r>sa</r></p><par n="kontra__pr"/></e>
     <e lm="bi" r="LR"><p><l>b'</l><r>bi</r></p><par n="kontra__pr"/></e>
+    <e lm="ta'" r="LR"><i>ta'</i><par n="kontra__pr"/></e>
+    <e lm="ma'" r="LR"><i>ma'</i><par n="kontra__pr"/></e>
 
     <e lm="l" r="LR"><p><l></l><r></r></p><par n="l-__det"/></e>
     <e lm="fil" r="LR"><p><l>f</l><r>fi<s n="pr"/><j/></r></p><par n="l-__det"/></e>
