@@ -29,8 +29,6 @@
     <sdef n="itg"/>
     <sdef n="pos"/>
     <sdef n="ord"/>
-    <sdef n="np"/>
-    <sdef n="top"/>
     <sdef n="ant"/>
     <sdef n="preadv"/>
     <sdef n="prn"/>
@@ -41,6 +39,10 @@
       <e r="LR"><p><l><s n="sg"/></l><r><s n="sp"/></r></p></e>
       <e r="LR"><p><l><s n="pl"/></l><r><s n="sp"/></r></p></e>
       <e r="RL"><p><l><s n="ND"/></l><r><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="GD">
+      <e r="RL"><p><l></l><r></r></p></e>
+      <e r="LR"><p><l></l><r><s n="GD"/></r></p></e>
     </pardef>
   </pardefs>
   <section id="main" type="standard">
@@ -89,18 +91,12 @@
     <e><p><l>other<s n="det"/></l><r>ieħor<s n="det"/></r></p></e>
     <e r="LR"><p><l>another<s n="det"/></l><r>ieħor<s n="det"/></r></p></e>
 
-    <e r="RL"><p><l>clown<s n="n"/></l><r>buffu<s n="n"/></r></p></e>
-    <e r="LR"><p><l>clown<s n="n"/></l><r>buffu<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>Czech<s n="n"/></l><r>Ċek<s n="n"/></r></p></e>
-    <e r="LR"><p><l>Czech<s n="n"/></l><r>Ċek<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>African<s n="n"/></l><r>Afrikan<s n="n"/></r></p></e>
-    <e r="LR"><p><l>African<s n="n"/></l><r>Afrikan<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>American<s n="n"/></l><r>Amerikan<s n="n"/></r></p></e>
-    <e r="LR"><p><l>American<s n="n"/></l><r>Amerikan<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>Australian<s n="n"/></l><r>Awstraljan<s n="n"/></r></p></e>
-    <e r="LR"><p><l>Australian<s n="n"/></l><r>Awstraljan<s n="n"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>English<s n="n"/></l><r>Ingliż<s n="n"/></r></p></e>
-    <e r="LR"><p><l>English<s n="n"/></l><r>Ingliż<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>clown<s n="n"/></l><r>buffu<s n="n"/></r></p><par n="GD"/></e>
+    <e><p><l>Czech<s n="n"/></l><r>Ċek<s n="n"/></r></p><par n="GD"/></e>
+    <e><p><l>African<s n="n"/></l><r>Afrikan<s n="n"/></r></p><par n="GD"/></e>
+    <e><p><l>American<s n="n"/></l><r>Amerikan<s n="n"/></r></p><par n="GD"/></e>
+    <e><p><l>Australian<s n="n"/></l><r>Awstraljan<s n="n"/></r></p><par n="GD"/></e>
+    <e><p><l>English<s n="n"/></l><r>Ingliż<s n="n"/></r></p><par n="GD"/></e>
     <e><p><l>Czech<s n="adj"/></l><r>Ċek<s n="adj"/></r></p></e>
     <e><p><l>African<s n="adj"/></l><r>Afrikan<s n="adj"/></r></p></e>
     <e><p><l>American<s n="adj"/></l><r>Amerikan<s n="adj"/></r></p></e>
@@ -668,6 +664,70 @@
     <e><p><l>vote<s n="n"/></l><r>votazzjoni<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>position<s n="n"/></l><r>pożizzjoni<s n="n"/><s n="f"/></r></p></e>
+
+    <e><p><l>monkey<s n="n"/></l><r>xadin<s n="n"/></r></p><par n="GD"/></e>
+    <e><p><l>grass<s n="n"/></l><r>ħaxix<s n="n"/></r></p><par n="GD"/></e>
+    <e><p><l>milk<s n="n"/></l><r>ħalib<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rust<s n="n"/></l><r>sadid<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>doctor<s n="n"/></l><r>tabib<s n="n"/></r></p><par n="GD"/></e>
+    <e><p><l>orphan<s n="n"/></l><r>iltim<s n="n"/></r></p><par n="GD"/></e>
+    <e><p><l>wine<s n="n"/></l><r>inbid<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>raisin<s n="n"/></l><r>żbib<s n="n"/></r></p><par n="GD"/></e>
+    <e><p><l>bachelor<s n="n"/></l><r>għażeb<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>linen<s n="n"/></l><r>għażel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cow<s n="n"/></l><r>baqra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>onion<s n="n"/></l><r>basla<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>peach<s n="n"/></l><r>ħawħa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>art<s n="n"/></l><r>sengħa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>leaf<s n="n"/></l><r>werqa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>wish<s n="n"/></l><r>xewqa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>knapsack<s n="n"/></l><r>ħorġa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>gallows<s n="n"/></l><r>forka<s n="n"/><s n="f"/></r></p></e>
+    <e c="wild duck"><p><l>duck<s n="n"/></l><r>borka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>greatness<s n="n"/></l><r>kobor<s n="m"/><s n="m"/></r></p></e>
+    <e><p><l>cheese<s n="n"/></l><r>ġobon<s n="m"/><s n="m"/></r></p></e>
+    <e><p><l>lap<s n="n"/></l><r>ħoġor<s n="m"/><s n="m"/></r></p></e>
+    <e><p><l>work<s n="n"/></l><r>xogħol<s n="m"/><s n="m"/></r></p></e>
+    <e><p><l>vinegar<s n="n"/></l><r>ħall<s n="m"/><s n="m"/></r></p></e>
+    <e><p><l>carriage<s n="n"/></l><r>ġarr<s n="m"/><s n="m"/></r></p></e>
+    <e><p><l>lettuce<s n="n"/></l><r>ħass<s n="m"/></r></p><par n="GD"/></e>
+    <e><p><l>bosom<s n="n"/></l><r>ħobb<s n="m"/><s n="m"/></r></p></e>
+    <e><p><l>sound<s n="n"/></l><r>ħoss<s n="m"/><s n="m"/></r></p></e>
+    <e><p><l>mind<s n="n"/></l><r>moħħ<s n="m"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>brain<s n="n"/></l><r>moħħ<s n="m"/><s n="m"/></r></p></e>
+    <e><p><l>cat<s n="n"/></l><r>qattus<s n="m"/></r></p><par n="GD"/></e>
+    <e><p><l>eel<s n="n"/></l><r>sallur<s n="m"/></r></p><par n="GD"/></e>
+    <e><p><l>oak<s n="n"/></l><r>ballut<s n="m"/></r></p><par n="GD"/></e>
+    <e><p><l>major<s n="n"/></l><r>maġġur<s n="m"/><s n="m"/></r></p></e>
+
+    <e><p><l>heart<s n="n"/></l><r>qalb<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kernel<s n="n"/></l><r>qalb<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sajd<s n="n"/></l><r>fishing<s n="n"/></r></p><par n="GD"/></e>
+    <e><p><l>trough<s n="n"/></l><r>ħawt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>dog<s n="n"/></l><r>kelb<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>bitch<s n="n"/></l><r>kelb<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>city<s n="n"/></l><r>belt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sun<s n="n"/></l><r>xemx<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>skin<s n="n"/></l><r>ġild<s n="n"/></r></p><par n="GD"/></e>
+    <e><p><l>chalk<s n="n"/></l><r>ġibs<s n="n"/></r></p><par n="GD"/></e>
+    <e><p><l>daughter<s n="n"/></l><r>bint<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sandals<s n="n"/></l><r>qorq<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sandal<s n="n"/></l><r>qorq<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>dreams<s n="n"/></l><r>ħolm<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>dream<s n="n"/></l><r>ħolm<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>heap<s n="n"/></l><r>borġ<s n="n"/><s n="m"/></r></p></e>
+
+    <!-- Collectives TODO -->
+    <e><p><l>meat<s n="n"/></l><r>laħam<s n="n"/></r></p><par n="GD"/></e>
+    <e><p><l>cows<s n="n"/></l><r>baqar<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lard<s n="n"/></l><r>xaħam<s n="n"/></r></p><par n="GD"/></e>
+    <e><p><l>basil<s n="n"/></l><r>ħabaq<s n="n"/></r></p><par n="GD"/></e>
+    <e><p><l>bones<s n="n"/></l><r>għadam<s n="n"/></r></p><par n="GD"/></e>
+    <e><p><l>stones<s n="n"/></l><r>ħaġar<s n="n"/></r></p><par n="GD"/></e>
+
+    <e><p><l>ants<s n="n"/></l><r>nemel<s n="n"/></r></p><par n="GD"/></e>
+    <e><p><l>camel<s n="n"/></l><r>ġemel<s n="n"/></r></p><par n="GD"/></e>
+    <e><p><l>stone<s n="n"/></l><r>ġebel<s n="n"/></r></p><par n="GD"/></e>
 
 
     <e><p><l>Europe<s n="np"/><s n="top"/></l><r>Ewropa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
